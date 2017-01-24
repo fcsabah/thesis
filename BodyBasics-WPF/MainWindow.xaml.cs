@@ -417,25 +417,6 @@
                                 }
                             }
 
-                            //if (gestureOn == false && positionLeft.X >=(double) -0.50 && positionRight.X <= (double)0.60 && 
-                            //    positionLeft.Y >= (double)0.15 && positionLeft.Y <= (double)0.50 &&
-                            //    positionRight.Y >= (double)0.15 && positionRight.Y <= (double)0.50 )
-                            //{
-                            //    gestureOn = true;
-                            //    cnt = 0;
-                            //    //Debug.WriteLine("gesture started!");
-                            //    Console.WriteLine("gesture started!");
-                            //    featureVector.Clear();
-                            //    continue;
-                            //}
-
-                            //else if (gestureOn == true && positionLeft.X >= (double)-0.50 && positionRight.X <= (double)0.60 &&
-                            //    positionLeft.Y >= (double)0.15 && positionLeft.Y <= (double)0.50 &&
-                            //    positionRight.Y >= (double)0.15 && positionRight.Y <= (double)0.50)
-                            //{
-
-                            //}
-
                             if (gestureOn)
                             {
                                 List<double> list = new List<double>();
