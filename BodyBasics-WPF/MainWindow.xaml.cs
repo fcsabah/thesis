@@ -10,16 +10,29 @@
     using System.Windows.Media;
     using System.Windows.Media.Imaging;
     using Microsoft.Kinect;
+    using System.Linq;
+    using Accord.Statistics.Models.Markov.Learning;
+    using Accord.Statistics.Models.Markov;
 
     /// <summary>
     /// Interaction logic for MainWindow
     /// </summary>
     public partial class MainWindow : Window, INotifyPropertyChanged
     {
+        /// <summary>
+        /// variables and initialization for my thesis project
+        /// </summary>
         int cnt = 0, i=0;
         StreamWriter file2 = new StreamWriter("D:\\kinect\\BodyBasics-WPF\\outputTemp.txt");
-        bool gestureOn = false;
+        bool gestureOn, trainingPeriod, trainingOn;
         List<List<double>> featureVector;
+        List<List<int>> TrainingSequence;
+        List<Tuple<string, HiddenMarkovModel>> HMM;
+        BaumWelchLearning teacher;
+        string gestureName;
+        int minTrainingSequences;
+        int[][] sequences;
+
         /// <summary>
         /// Radius of drawn hand circles
         /// </summary>
@@ -131,10 +144,19 @@
         public MainWindow()
         {
             //file2.WriteLine("-------------------hat Upore--------------------" + Environment.NewLine);
+            
+            // initializations
+            featureVector = new List<List<double>>();
+            TrainingSequence = new List<List<int>>();
+            HMM = new List<Tuple<string, HiddenMarkovModel>>();
+            trainingPeriod = true;
+            trainingOn = false;
+            gestureOn = false;
+            minTrainingSequences = 5;
 
             // one sensor is currently supported
             this.kinectSensor = KinectSensor.GetDefault();
-            featureVector = new List<List<double>>();
+            
 
             // get the coordinate mapper
             this.coordinateMapper = this.kinectSensor.CoordinateMapper;
@@ -299,8 +321,8 @@
 
         private double calcAngle(CameraSpacePoint position1, CameraSpacePoint position2, CameraSpacePoint position3, CameraSpacePoint position4)
         {
-            float angle=0f, magnitude1, magnitude2, scalarProduct, magnitudeX_Y, temp;
-            CameraSpacePoint vec1, vec2, normVec1, normVec2, vecX_Y;
+            float angle=0f, magnitude1, magnitude2, scalarProduct, temp;
+            CameraSpacePoint vec1, vec2;
 
             vec1.X = position1.X - position2.X;
             vec1.Y = position1.Y - position2.Y;
@@ -313,15 +335,6 @@
             magnitude1 = (float) Math.Sqrt(vec1.X * vec1.X + vec1.Y * vec1.Y + vec1.Z * vec1.Z);
             magnitude2 = (float) Math.Sqrt(vec2.X * vec2.X + vec2.Y * vec2.Y + vec2.Z * vec2.Z);
 
-            normVec1.X = vec1.X / magnitude1;
-            normVec1.Y = vec1.Y / magnitude1;
-            normVec1.Z = vec1.Z / magnitude1;
-
-            normVec2.X = vec2.X / magnitude2;
-            normVec2.Y = vec2.Y / magnitude2;
-            normVec2.Z = vec2.Z / magnitude2;
-
-            //scalarProduct = normVec1.X * normVec2.X + normVec1.Y * normVec2.Y + normVec1.Z * normVec2.Z;
             scalarProduct = vec1.X * vec2.X + vec1.Y * vec2.Y + vec1.Z * vec2.Z;
 
             temp = (float) scalarProduct / (magnitude1*magnitude2);
@@ -358,16 +371,39 @@
                 }
             }
             
-            //file2.WriteLine("----------------hat niche (হাত নিচে)--------------------" + Environment.NewLine);
             if (dataReceived)
             {
                 using (DrawingContext dc = this.drawingGroup.Open())
                 {
                     // Draw a transparent background to set the render size
                     dc.DrawRectangle(Brushes.Black, null, new Rect(0.0, 0.0, this.displayWidth, this.displayHeight));
-                    //Debug.WriteLine("asdf");
 
                     int penIndex = 0;
+
+                    if (trainingPeriod && !trainingOn)
+                    {
+                        string choice;
+                        Console.WriteLine("Do you want to add a gesture?(Y/N)");
+                        do{
+                            choice = Console.ReadLine();
+                        }while(choice!="N" && choice!="Y");
+                        
+                        if (choice == "N")
+                        {
+                            trainingPeriod = false;
+                            Console.WriteLine("Stand in front of the kinect and perform any gesture to recognize\n");
+                        }
+                        else
+                        {
+                            Console.Write("Enter Gesture Name: ");
+                            gestureName = Console.ReadLine();
+
+                            Console.WriteLine("Stand in front of the kinect and perform the gesture " + minTrainingSequences + " times");
+                            cnt = 0;
+                            trainingOn = true;
+                        }
+                    }
+
                     foreach (Body body in this.bodies)
                     {
                         Pen drawPen = this.bodyColors[penIndex++];
@@ -385,88 +421,160 @@
                             CameraSpacePoint head = joints[JointType.Head].Position;
                             HandState handstateLeft = body.HandLeftState;
                             HandState handstateRight = body.HandRightState;
-                            //string createText = "Hello and Welcome" + Environment.NewLine;
-                            //cnt++;
 
-
-                            //Console.WriteLine("position left: X-> " + positionLeft.X + "  Y-> " + positionLeft.Y + "   Z-> " + positionLeft.Z);
-                            //Console.WriteLine("position right: X-> " + positionRight.X + "  Y-> " + positionRight.Y + "   Z-> " + positionRight.Z);
-                            //Console.WriteLine("position head: X-> " + head.X + "  Y-> " + head.Y + "   Z-> " + head.Z);
-                            if (gestureOn==false && handstateRight == HandState.Closed && (positionRight.Y > head.Y) && (positionRight.Y - head.Y) >= 0.10)
+                            if (trainingOn)
                             {
-                                System.Threading.Thread.Sleep(500);
-                                gestureOn = true;
-                                cnt = 0;
-                                //Debug.WriteLine("gesture started!");
-                                Console.WriteLine("gesture started!");
-                                featureVector.Clear();
-                                continue;
-                            }
-
-                            else if (gestureOn == true && handstateLeft == HandState.Closed && (positionLeft.Y > head.Y) && (positionLeft.Y - head.Y) >= 0.10)
-                            {
-                                gestureOn = false;
-                                Console.WriteLine("gesture ended!" + Environment.NewLine + "Feature Vector :" + Environment.NewLine);
-                                foreach (var sublist in featureVector)
+                                if (gestureOn == false && handstateRight == HandState.Closed && (positionRight.Y > head.Y) && (positionRight.Y - head.Y) >= 0.10)
                                 {
-                                    foreach (var obj in sublist)
+                                    System.Threading.Thread.Sleep(500);
+                                    gestureOn = true;
+                                    cnt = 0;
+                                    Console.WriteLine("gesture started!");
+                                    featureVector.Clear();
+                                    continue;
+                                }
+
+                                else if (gestureOn == true && handstateLeft == HandState.Closed && (positionLeft.Y > head.Y) && (positionLeft.Y - head.Y) >= 0.10)
+                                {
+                                    gestureOn = false;
+                                    Console.WriteLine("gesture ended!" + Environment.NewLine + "Feature Vector :" + Environment.NewLine);
+                                    foreach (var sublist in featureVector)
                                     {
-                                        Console.WriteLine(obj + " ");
+                                        foreach (var obj in sublist)
+                                        {
+                                            Console.WriteLine(obj + " ");
+                                        }
+                                        Console.WriteLine(Environment.NewLine);
                                     }
-                                    Console.WriteLine(Environment.NewLine);
+
+                                    cnt++;
+                                    if (cnt < minTrainingSequences)
+                                    {
+                                        Console.WriteLine("Your remaining training sequence : " + (minTrainingSequences - cnt) + Environment.NewLine);
+                                        Console.WriteLine("Please perform again." + Environment.NewLine);
+                                    }
+                                    else
+                                    {
+                                        Console.WriteLine("Training finished for current gesture!" + Environment.NewLine);
+                                        trainingOn = false;
+                                    }
+                                }
+
+                                if (gestureOn)
+                                {
+                                    List<double> list = new List<double>();
+                                    CameraSpacePoint shoulderLeft = joints[JointType.ShoulderLeft].Position;
+                                    CameraSpacePoint elbowLeft = joints[JointType.ElbowLeft].Position;
+                                    CameraSpacePoint wristLeft = joints[JointType.WristLeft].Position;
+                                    CameraSpacePoint shoulderRight = joints[JointType.ShoulderRight].Position;
+                                    CameraSpacePoint elbowRight = joints[JointType.ElbowRight].Position;
+                                    CameraSpacePoint wristRight = joints[JointType.WristRight].Position;
+                                    CameraSpacePoint spineShoulder = joints[JointType.SpineShoulder].Position;
+                                    CameraSpacePoint spineBase = joints[JointType.SpineBase].Position;
+                                    CameraSpacePoint kneeLeft = joints[JointType.KneeLeft].Position;
+                                    CameraSpacePoint kneeRight = joints[JointType.KneeRight].Position;
+                                    CameraSpacePoint ancleLeft = joints[JointType.AnkleLeft].Position;
+                                    CameraSpacePoint ancleRight = joints[JointType.AnkleRight].Position;
+                                    CameraSpacePoint hipRight = joints[JointType.HipRight].Position;
+                                    CameraSpacePoint hipLeft = joints[JointType.HipLeft].Position;
+
+                                    list.Add(calcAngle(shoulderLeft, elbowLeft, wristLeft, elbowLeft));//1
+                                    list.Add(calcAngle(shoulderRight, elbowRight, wristRight, elbowRight));//2
+                                    list.Add(calcAngle(spineShoulder, shoulderLeft, elbowLeft, shoulderLeft));//3
+                                    list.Add(calcAngle(spineShoulder, shoulderRight, elbowRight, shoulderRight));//4
+                                    list.Add(calcAngle(elbowLeft, shoulderLeft, elbowRight, shoulderRight));//5
+                                    list.Add(calcAngle(wristLeft, elbowLeft, wristRight, elbowRight));//6
+                                    list.Add(calcAngle(elbowLeft, shoulderLeft, spineBase, spineShoulder));//7
+                                    list.Add(calcAngle(spineBase, spineShoulder, elbowRight, shoulderRight));//8
+                                    list.Add(calcAngle(spineBase, spineShoulder, wristLeft, elbowLeft));//9
+                                    list.Add(calcAngle(spineBase, spineShoulder, wristRight, elbowRight));//10
+                                    list.Add(calcAngle(spineShoulder, spineBase, ancleLeft, kneeLeft));//11
+                                    list.Add(calcAngle(spineShoulder, spineBase, ancleRight, kneeRight));//12
+                                    list.Add(calcAngle(hipLeft, kneeLeft, ancleLeft, kneeLeft));//13
+                                    list.Add(calcAngle(hipRight, kneeRight, ancleRight, kneeRight));//14
+                                    list.Add(calcAngle(kneeLeft, hipLeft, spineShoulder, spineBase));//15
+                                    list.Add(calcAngle(kneeRight, hipRight, spineShoulder, spineBase));//16
+                                    list.Add(calcAngle(kneeRight, hipRight, kneeLeft, hipLeft));//17
+                                    list.Add(calcAngle(ancleRight, kneeRight, ancleLeft, kneeLeft));//18
+
+                                    featureVector.Add(list);
+                                    //file2.WriteLine("new angles:" + Environment.NewLine);
+                                    //System.Threading.Thread.Sleep(200);
+                                    //file2.WriteLine(featureVector[i++]);
                                 }
                             }
 
-                            if (gestureOn)
+                            else if (!trainingPeriod)
                             {
-                                List<double> list = new List<double>();
-                                CameraSpacePoint shoulderLeft = joints[JointType.ShoulderLeft].Position;
-                                CameraSpacePoint elbowLeft = joints[JointType.ElbowLeft].Position;
-                                CameraSpacePoint wristLeft = joints[JointType.WristLeft].Position;
-                                CameraSpacePoint shoulderRight = joints[JointType.ShoulderRight].Position;
-                                CameraSpacePoint elbowRight = joints[JointType.ElbowRight].Position;
-                                CameraSpacePoint wristRight = joints[JointType.WristRight].Position;
-                                CameraSpacePoint spineShoulder = joints[JointType.SpineShoulder].Position;
-                                CameraSpacePoint spineBase = joints[JointType.SpineBase].Position;
-                                CameraSpacePoint kneeLeft = joints[JointType.KneeLeft].Position;
-                                CameraSpacePoint kneeRight = joints[JointType.KneeRight].Position;
-                                CameraSpacePoint ancleLeft = joints[JointType.AnkleLeft].Position;
-                                CameraSpacePoint ancleRight = joints[JointType.AnkleRight].Position;
-                                CameraSpacePoint hipRight = joints[JointType.HipRight].Position;
-                                CameraSpacePoint hipLeft = joints[JointType.HipLeft].Position;
-                                
-                                list.Add(calcAngle(shoulderLeft, elbowLeft, wristLeft, elbowLeft));//1
-                                list.Add(calcAngle(shoulderRight, elbowRight, wristRight, elbowRight));//2
-                                list.Add(calcAngle(spineShoulder, shoulderLeft, elbowLeft, shoulderLeft));//3
-                                list.Add(calcAngle(spineShoulder, shoulderRight, elbowRight, shoulderRight));//4
-                                list.Add(calcAngle(elbowLeft, shoulderLeft, elbowRight, shoulderRight));//5
-                                list.Add(calcAngle(wristLeft, elbowLeft, wristRight, elbowRight));//6
-                                list.Add(calcAngle(elbowLeft, shoulderLeft, spineBase, spineShoulder));//7
-                                list.Add(calcAngle(spineBase, spineShoulder, elbowRight, shoulderRight));//8
-                                list.Add(calcAngle(spineBase, spineShoulder, wristLeft, elbowLeft));//9
-                                list.Add(calcAngle(spineBase, spineShoulder, wristRight, elbowRight));//10
-                                list.Add(calcAngle(spineShoulder, spineBase, ancleLeft, kneeLeft));//11
-                                list.Add(calcAngle(spineShoulder, spineBase, ancleRight, kneeRight));//12
-                                list.Add(calcAngle(hipLeft, kneeLeft, ancleLeft, kneeLeft));//13
-                                list.Add(calcAngle(hipRight, kneeRight, ancleRight, kneeRight));//14
-                                list.Add(calcAngle(kneeLeft, hipLeft, spineShoulder, spineBase));//15
-                                list.Add(calcAngle(kneeRight, hipRight, spineShoulder, spineBase));//16
-                                list.Add(calcAngle(kneeRight, hipRight, kneeLeft, hipLeft));//17
-                                list.Add(calcAngle(ancleRight, kneeRight, ancleLeft, kneeLeft));//18
+                                if (gestureOn == false && handstateRight == HandState.Closed && (positionRight.Y > head.Y) && (positionRight.Y - head.Y) >= 0.10)
+                                {
+                                    System.Threading.Thread.Sleep(500);
+                                    gestureOn = true;
+                                    cnt = 0;
+                                    Console.WriteLine("gesture started!");
+                                    featureVector.Clear();
+                                    continue;
+                                }
 
-                                //featureVector.Add(list);
-                                //Debug.Write(FeatureVector[i] + " ");
-                                //System.Threading.Thread.Sleep(200);
-                                
-                                file2.WriteLine("new angles:" + Environment.NewLine);
-                                //file2.WriteLine(list[0] + " " + list[1]);
-                                featureVector.Add(list);
-                                //file2.WriteLine(featureVector[i++]);
+                                else if (gestureOn == true && handstateLeft == HandState.Closed && (positionLeft.Y > head.Y) && (positionLeft.Y - head.Y) >= 0.10)
+                                {
+                                    gestureOn = false;
+                                    Console.WriteLine("Gesture ended!" + Environment.NewLine + "Feature Vector :" + Environment.NewLine);
+                                    foreach (var sublist in featureVector)
+                                    {
+                                        foreach (var obj in sublist)
+                                        {
+                                            Console.WriteLine(obj + " ");
+                                        }
+                                        Console.WriteLine(Environment.NewLine);
+                                    }
+
+                                    //trainingPeriod = true;
+                                }
+
+                                if (gestureOn)
+                                {
+                                    List<double> list = new List<double>();
+                                    CameraSpacePoint shoulderLeft = joints[JointType.ShoulderLeft].Position;
+                                    CameraSpacePoint elbowLeft = joints[JointType.ElbowLeft].Position;
+                                    CameraSpacePoint wristLeft = joints[JointType.WristLeft].Position;
+                                    CameraSpacePoint shoulderRight = joints[JointType.ShoulderRight].Position;
+                                    CameraSpacePoint elbowRight = joints[JointType.ElbowRight].Position;
+                                    CameraSpacePoint wristRight = joints[JointType.WristRight].Position;
+                                    CameraSpacePoint spineShoulder = joints[JointType.SpineShoulder].Position;
+                                    CameraSpacePoint spineBase = joints[JointType.SpineBase].Position;
+                                    CameraSpacePoint kneeLeft = joints[JointType.KneeLeft].Position;
+                                    CameraSpacePoint kneeRight = joints[JointType.KneeRight].Position;
+                                    CameraSpacePoint ancleLeft = joints[JointType.AnkleLeft].Position;
+                                    CameraSpacePoint ancleRight = joints[JointType.AnkleRight].Position;
+                                    CameraSpacePoint hipRight = joints[JointType.HipRight].Position;
+                                    CameraSpacePoint hipLeft = joints[JointType.HipLeft].Position;
+
+                                    list.Add(calcAngle(shoulderLeft, elbowLeft, wristLeft, elbowLeft));//1
+                                    list.Add(calcAngle(shoulderRight, elbowRight, wristRight, elbowRight));//2
+                                    list.Add(calcAngle(spineShoulder, shoulderLeft, elbowLeft, shoulderLeft));//3
+                                    list.Add(calcAngle(spineShoulder, shoulderRight, elbowRight, shoulderRight));//4
+                                    list.Add(calcAngle(elbowLeft, shoulderLeft, elbowRight, shoulderRight));//5
+                                    list.Add(calcAngle(wristLeft, elbowLeft, wristRight, elbowRight));//6
+                                    list.Add(calcAngle(elbowLeft, shoulderLeft, spineBase, spineShoulder));//7
+                                    list.Add(calcAngle(spineBase, spineShoulder, elbowRight, shoulderRight));//8
+                                    list.Add(calcAngle(spineBase, spineShoulder, wristLeft, elbowLeft));//9
+                                    list.Add(calcAngle(spineBase, spineShoulder, wristRight, elbowRight));//10
+                                    list.Add(calcAngle(spineShoulder, spineBase, ancleLeft, kneeLeft));//11
+                                    list.Add(calcAngle(spineShoulder, spineBase, ancleRight, kneeRight));//12
+                                    list.Add(calcAngle(hipLeft, kneeLeft, ancleLeft, kneeLeft));//13
+                                    list.Add(calcAngle(hipRight, kneeRight, ancleRight, kneeRight));//14
+                                    list.Add(calcAngle(kneeLeft, hipLeft, spineShoulder, spineBase));//15
+                                    list.Add(calcAngle(kneeRight, hipRight, spineShoulder, spineBase));//16
+                                    list.Add(calcAngle(kneeRight, hipRight, kneeLeft, hipLeft));//17
+                                    list.Add(calcAngle(ancleRight, kneeRight, ancleLeft, kneeLeft));//18
+
+                                    featureVector.Add(list);
+                                    //file2.WriteLine("new angles:" + Environment.NewLine);
+                                    //System.Threading.Thread.Sleep(200);
+                                    //file2.WriteLine(featureVector[i++]);
+                                }
                             }
-
-                            //file2.WriteLine("frame " + cnt + ":" + Environment.NewLine);
-                            //file2.WriteLine("left hand position -> " + positionLeft.X + " " + positionLeft.Y + " " + positionLeft.Z + Environment.NewLine);
-                            ///file2.WriteLine("right hand position -> " + positionRight.X + " " + positionRight.Y + " " + positionRight.Z + Environment.NewLine);
 
                             foreach (JointType jointType in joints.Keys)
                             {
