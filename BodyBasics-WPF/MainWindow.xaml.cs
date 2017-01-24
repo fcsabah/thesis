@@ -327,24 +327,6 @@
             temp = (float) scalarProduct / (magnitude1*magnitude2);
             angle = (float)Math.Acos(temp);
 
-            //if (scalarProduct >= 0)
-            //{
-            //    vecX_Y.X = normVec1.X - normVec2.X;
-            //    vecX_Y.Y = normVec1.Y - normVec2.Y;
-            //    vecX_Y.Z = normVec1.Z - normVec2.Z;
-
-            //    magnitudeX_Y = (float) Math.Sqrt(vecX_Y.X * vecX_Y.X + vecX_Y.Y * vecX_Y.Y + vecX_Y.Z * vecX_Y.Z);
-            //    angle = (float) (2.0 * Math.Asin(magnitudeX_Y / 2.0));
-            //}
-            //else if (scalarProduct < 0)
-            //{
-            //    vecX_Y.X = -normVec1.X - normVec2.X;
-            //    vecX_Y.Y = -normVec1.Y - normVec2.Y;
-            //    vecX_Y.Z = -normVec1.Z - normVec2.Z;
-
-            //    magnitudeX_Y = (float) Math.Sqrt(vecX_Y.X * vecX_Y.X + vecX_Y.Y * vecX_Y.Y + vecX_Y.Z * vecX_Y.Z);
-            //    angle = (float) (180.0 - 2.0 * Math.Asin(magnitudeX_Y / 2.0));
-            //}
             angle =(float) (180f / 3.1416f) * angle;
 
             return angle;
