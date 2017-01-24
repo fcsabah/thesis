@@ -1,0 +1,5667 @@
+-------------------hat Upore--------------------
+
+frame 1:
+
+left hand position -> 0.06277413 0.2187795 1.418994
+
+right hand position -> 0.3110665 0.3037816 1.409277
+
+frame 2:
+
+left hand position -> 0.06295022 0.2185814 1.418996
+
+right hand position -> 0.3123438 0.3031481 1.409253
+
+frame 3:
+
+left hand position -> -0.1335588 0.2653383 1.458145
+
+right hand position -> 0.3117661 0.3047019 1.40668
+
+frame 4:
+
+left hand position -> -0.1267203 0.2660768 1.459747
+
+right hand position -> 0.3112646 0.3047784 1.408152
+
+frame 5:
+
+left hand position -> -0.1269549 0.2663034 1.461799
+
+right hand position -> 0.3101274 0.3042115 1.408892
+
+frame 6:
+
+left hand position -> -0.1267802 0.2650662 1.46206
+
+right hand position -> 0.3087706 0.3029778 1.408996
+
+frame 7:
+
+left hand position -> -0.1276215 0.2617815 1.461595
+
+right hand position -> 0.3084294 0.3003618 1.410198
+
+frame 8:
+
+left hand position -> -0.1274214 0.2587214 1.461961
+
+right hand position -> 0.3070891 0.2993113 1.41087
+
+frame 9:
+
+left hand position -> -0.1294676 0.2542995 1.463266
+
+right hand position -> 0.3059048 0.2976541 1.412337
+
+frame 10:
+
+left hand position -> -0.1300587 0.2506768 1.464601
+
+right hand position -> 0.3040843 0.2936756 1.413617
+
+frame 11:
+
+left hand position -> -0.1299982 0.2440736 1.463687
+
+right hand position -> 0.3024257 0.2899033 1.414838
+
+frame 12:
+
+left hand position -> -0.130059 0.2416443 1.463488
+
+right hand position -> 0.3005941 0.2855848 1.415131
+
+frame 13:
+
+left hand position -> -0.1303917 0.2389698 1.462971
+
+right hand position -> 0.2990493 0.2834114 1.415935
+
+frame 14:
+
+left hand position -> -0.1297399 0.2363723 1.464589
+
+right hand position -> 0.2980848 0.280007 1.415753
+
+frame 15:
+
+left hand position -> -0.1300528 0.2349136 1.468136
+
+right hand position -> 0.2969486 0.2796844 1.417378
+
+frame 16:
+
+left hand position -> -0.1307386 0.2346978 1.46852
+
+right hand position -> 0.2961674 0.2796095 1.418288
+
+frame 17:
+
+left hand position -> -0.1298608 0.2348662 1.470876
+
+right hand position -> 0.2956125 0.2799376 1.418723
+
+frame 18:
+
+left hand position -> -0.1322285 0.2367067 1.473964
+
+right hand position -> 0.2949232 0.2812626 1.419519
+
+frame 19:
+
+left hand position -> -0.1343227 0.2415201 1.481525
+
+right hand position -> 0.294898 0.2822174 1.421938
+
+frame 20:
+
+left hand position -> -0.1320035 0.2416357 1.481674
+
+right hand position -> 0.2949027 0.2835302 1.423461
+
+frame 21:
+
+left hand position -> -0.1349016 0.242721 1.484117
+
+right hand position -> 0.2942048 0.2876451 1.424714
+
+frame 22:
+
+left hand position -> -0.1277397 0.2386546 1.47966
+
+right hand position -> 0.2944514 0.287935 1.426238
+
+frame 23:
+
+left hand position -> -0.135103 0.2451068 1.486579
+
+right hand position -> 0.294004 0.2884296 1.426096
+
+frame 24:
+
+left hand position -> -0.128897 0.2404622 1.480592
+
+right hand position -> 0.2933763 0.2893466 1.426936
+
+frame 25:
+
+left hand position -> -0.1376329 0.247817 1.489151
+
+right hand position -> 0.2935165 0.2894339 1.427317
+
+frame 26:
+
+left hand position -> -0.1379741 0.2476658 1.490361
+
+right hand position -> 0.2927548 0.2892143 1.428663
+
+frame 27:
+
+left hand position -> -0.1376854 0.2469131 1.490181
+
+right hand position -> 0.291884 0.2884317 1.428071
+
+frame 28:
+
+left hand position -> -0.1289542 0.2395733 1.482557
+
+right hand position -> 0.2914752 0.2884624 1.429228
+
+frame 29:
+
+left hand position -> -0.1381025 0.2462533 1.490671
+
+right hand position -> 0.2910997 0.2901655 1.430156
+
+frame 30:
+
+left hand position -> -0.1280687 0.2397988 1.483304
+
+right hand position -> 0.2910304 0.2900869 1.430611
+
+frame 31:
+
+left hand position -> -0.13876 0.245232 1.490993
+
+right hand position -> 0.2898872 0.2891571 1.429908
+
+frame 32:
+
+left hand position -> -0.1287263 0.2397824 1.482476
+
+right hand position -> 0.2888543 0.289096 1.428798
+
+frame 33:
+
+left hand position -> -0.1385536 0.2445349 1.491374
+
+right hand position -> 0.2878715 0.2860182 1.428034
+
+frame 34:
+
+left hand position -> -0.1341786 0.2393959 1.486137
+
+right hand position -> 0.2868552 0.2861961 1.427049
+
+frame 35:
+
+left hand position -> -0.1339495 0.2387349 1.48595
+
+right hand position -> 0.2862749 0.2853863 1.428019
+
+frame 36:
+
+left hand position -> -0.1635269 0.2658004 1.445896
+
+right hand position -> 0.2855051 0.2859276 1.431146
+
+frame 37:
+
+left hand position -> -0.1329386 0.2512828 1.504655
+
+right hand position -> 0.2854595 0.2864002 1.432306
+
+frame 38:
+
+left hand position -> -0.1403203 0.2383158 1.500496
+
+right hand position -> 0.2863425 0.2859299 1.434165
+
+frame 39:
+
+left hand position -> -0.1376702 0.2349934 1.496525
+
+right hand position -> 0.2871058 0.2854715 1.435107
+
+frame 40:
+
+left hand position -> -0.1328518 0.2320902 1.494049
+
+right hand position -> 0.2881814 0.2833579 1.436339
+
+frame 41:
+
+left hand position -> -0.1406982 0.2360719 1.499319
+
+right hand position -> 0.2877444 0.2831409 1.437169
+
+frame 42:
+
+left hand position -> -0.140827 0.2350498 1.500765
+
+right hand position -> 0.2881477 0.2826266 1.438683
+
+frame 43:
+
+left hand position -> -0.1376188 0.2327291 1.499924
+
+right hand position -> 0.2890511 0.2803306 1.439752
+
+frame 44:
+
+left hand position -> -0.1382654 0.2326311 1.500295
+
+right hand position -> 0.2890921 0.2802165 1.439871
+
+frame 45:
+
+left hand position -> -0.1383658 0.2347239 1.501453
+
+right hand position -> 0.2895425 0.2799473 1.442052
+
+frame 46:
+
+left hand position -> -0.1355008 0.2291725 1.49605
+
+right hand position -> 0.2898174 0.2791645 1.442641
+
+frame 47:
+
+left hand position -> -0.1388778 0.2339497 1.503118
+
+right hand position -> 0.2907203 0.2774639 1.443694
+
+frame 48:
+
+left hand position -> -0.1313277 0.2297883 1.496283
+
+right hand position -> 0.2914412 0.277584 1.443909
+
+frame 49:
+
+left hand position -> -0.1320901 0.2299818 1.495351
+
+right hand position -> 0.2920139 0.2777656 1.444708
+
+frame 50:
+
+left hand position -> -0.1220536 0.2241494 1.5136
+
+right hand position -> 0.2928694 0.2781061 1.445606
+
+frame 51:
+
+left hand position -> -0.1238851 0.2245453 1.514847
+
+right hand position -> 0.2931452 0.2773069 1.445817
+
+frame 52:
+
+left hand position -> -0.1437836 0.2276652 1.49359
+
+right hand position -> 0.2942077 0.2778724 1.44827
+
+frame 53:
+
+left hand position -> -0.1367042 0.22208 1.483918
+
+right hand position -> 0.2947229 0.2782373 1.448991
+
+frame 54:
+
+left hand position -> -0.1369084 0.2226113 1.48428
+
+right hand position -> 0.2951726 0.2780065 1.44971
+
+frame 55:
+
+left hand position -> -0.1374186 0.2210959 1.482667
+
+right hand position -> 0.2958981 0.278079 1.449222
+
+frame 56:
+
+left hand position -> -0.1366782 0.2206872 1.481782
+
+right hand position -> 0.2964833 0.2769881 1.449364
+
+frame 57:
+
+left hand position -> -0.1437123 0.2239431 1.487464
+
+right hand position -> 0.2982138 0.2773974 1.450122
+
+frame 58:
+
+left hand position -> -0.1434644 0.2243852 1.486707
+
+right hand position -> 0.299161 0.2773159 1.44936
+
+frame 59:
+
+left hand position -> -0.1495668 0.2218891 1.478528
+
+right hand position -> 0.3000306 0.2774137 1.449234
+
+frame 60:
+
+left hand position -> -0.1550114 0.2224447 1.463333
+
+right hand position -> 0.3006751 0.2746702 1.447974
+
+frame 61:
+
+left hand position -> -0.1225348 0.2345486 1.487397
+
+right hand position -> 0.3008955 0.2747304 1.446831
+
+frame 62:
+
+left hand position -> -0.1600484 0.233733 1.437047
+
+right hand position -> 0.3016272 0.2744656 1.446707
+
+frame 63:
+
+left hand position -> -0.1115539 0.2112346 1.499522
+
+right hand position -> 0.3028179 0.2746191 1.445789
+
+frame 64:
+
+left hand position -> -0.1103498 0.2114361 1.501012
+
+right hand position -> 0.3036387 0.2750407 1.445475
+
+frame 65:
+
+left hand position -> 0.2863088 0.1358681 1.54209
+
+right hand position -> 0.3045769 0.2746329 1.443129
+
+frame 66:
+
+left hand position -> 0.2869454 0.1358227 1.542144
+
+right hand position -> 0.3049801 0.2750367 1.442715
+
+frame 67:
+
+left hand position -> 0.3045053 0.07742824 1.526198
+
+right hand position -> 0.3051724 0.2748986 1.442165
+
+frame 68:
+
+left hand position -> 0.3022505 0.07370738 1.528365
+
+right hand position -> 0.3053894 0.2749962 1.441334
+
+frame 69:
+
+left hand position -> 0.3032568 0.07426923 1.527686
+
+right hand position -> 0.3063726 0.2757942 1.441012
+
+frame 70:
+
+left hand position -> 0.3018968 0.07334327 1.528065
+
+right hand position -> 0.3064833 0.2760158 1.43968
+
+frame 71:
+
+left hand position -> 0.3040381 0.07633094 1.526775
+
+right hand position -> 0.3065965 0.2761412 1.440706
+
+frame 72:
+
+left hand position -> 0.3023792 0.0743486 1.527254
+
+right hand position -> 0.3069145 0.276762 1.439088
+
+frame 73:
+
+left hand position -> 0.3034085 0.07690063 1.526151
+
+right hand position -> 0.3066432 0.2800477 1.440755
+
+frame 74:
+
+left hand position -> 0.304561 0.07940283 1.524861
+
+right hand position -> 0.3064977 0.2802448 1.440548
+
+frame 75:
+
+left hand position -> 0.3065304 0.07487954 1.522921
+
+right hand position -> 0.3068366 0.2823636 1.440284
+
+frame 76:
+
+left hand position -> 0.3068307 0.05574444 1.527129
+
+right hand position -> 0.3070942 0.2832975 1.440663
+
+frame 77:
+
+left hand position -> 0.3067727 0.05529694 1.526533
+
+right hand position -> 0.3069891 0.2837417 1.439032
+
+frame 78:
+
+left hand position -> 0.3065192 0.05366265 1.528903
+
+right hand position -> 0.3065754 0.2841394 1.439804
+
+frame 79:
+
+left hand position -> 0.3087458 0.0562268 1.526185
+
+right hand position -> 0.3054927 0.2853752 1.440699
+
+frame 80:
+
+left hand position -> -0.1502035 -0.2127594 1.55495
+
+right hand position -> 0.304971 0.2876653 1.440798
+
+frame 81:
+
+left hand position -> -0.1502315 -0.214705 1.555643
+
+right hand position -> 0.3045552 0.2878252 1.441811
+
+frame 82:
+
+left hand position -> -0.1503154 -0.2137046 1.555696
+
+right hand position -> 0.3042033 0.2878361 1.441137
+
+frame 83:
+
+left hand position -> -0.1502459 -0.214949 1.555079
+
+right hand position -> 0.3038975 0.2896357 1.440961
+
+frame 84:
+
+left hand position -> -0.1507016 -0.2142806 1.557833
+
+right hand position -> 0.3034936 0.289837 1.442281
+
+frame 85:
+
+left hand position -> -0.1508676 -0.2150912 1.557873
+
+right hand position -> 0.3034265 0.2895747 1.442844
+
+frame 86:
+
+left hand position -> -0.1509003 -0.2158197 1.557855
+
+right hand position -> 0.3026323 0.2898561 1.442951
+
+frame 87:
+
+left hand position -> -0.1509774 -0.2168822 1.558227
+
+right hand position -> 0.3025186 0.2900003 1.443759
+
+frame 88:
+
+left hand position -> -0.1513067 -0.2156782 1.559988
+
+right hand position -> 0.3022483 0.2899894 1.443681
+
+frame 89:
+
+left hand position -> -0.1516164 -0.2159482 1.561124
+
+right hand position -> 0.3025528 0.289796 1.444381
+
+frame 90:
+
+left hand position -> -0.151623 -0.2166642 1.560749
+
+right hand position -> 0.302222 0.2897302 1.44455
+
+frame 91:
+
+left hand position -> -0.1515929 -0.2145302 1.560749
+
+right hand position -> 0.3026401 0.289733 1.444039
+
+frame 92:
+
+left hand position -> -0.1518425 -0.2160337 1.561694
+
+right hand position -> 0.302912 0.2893185 1.443707
+
+frame 93:
+
+left hand position -> -0.1518186 -0.2138093 1.561793
+
+right hand position -> 0.3032973 0.2897941 1.443926
+
+frame 94:
+
+left hand position -> -0.1517568 -0.215051 1.562055
+
+right hand position -> 0.3033978 0.2894912 1.443234
+
+frame 95:
+
+left hand position -> -0.1519556 -0.2143947 1.56197
+
+right hand position -> 0.3035516 0.2893944 1.443024
+
+frame 96:
+
+left hand position -> -0.1518065 -0.2160006 1.561325
+
+right hand position -> 0.3036501 0.2890561 1.441727
+
+frame 97:
+
+left hand position -> -0.1516481 -0.2161125 1.560978
+
+right hand position -> 0.303928 0.2893068 1.440965
+
+frame 98:
+
+left hand position -> -0.1517863 -0.2166974 1.562387
+
+right hand position -> 0.3046207 0.2900487 1.441102
+
+frame 99:
+
+left hand position -> -0.1517177 -0.2166633 1.561661
+
+right hand position -> 0.3044604 0.2898486 1.440035
+
+frame 100:
+
+left hand position -> -0.1515183 -0.2164876 1.561686
+
+right hand position -> 0.3053206 0.2900363 1.439953
+
+frame 101:
+
+left hand position -> -0.1513591 -0.2203851 1.560686
+
+right hand position -> 0.3060713 0.2903716 1.438088
+
+frame 102:
+
+left hand position -> -0.150831 -0.2197885 1.558762
+
+right hand position -> 0.3064599 0.2899544 1.436852
+
+frame 103:
+
+left hand position -> -0.2307215 0.2563215 1.373699
+
+right hand position -> 0.3060716 0.2897832 1.436338
+
+frame 104:
+
+left hand position -> -0.2227199 0.3004585 1.384723
+
+right hand position -> 0.3065815 0.2900473 1.436013
+
+frame 105:
+
+left hand position -> -0.2208725 0.2999455 1.384222
+
+right hand position -> 0.3066041 0.2916546 1.435484
+
+frame 106:
+
+left hand position -> -0.2194262 0.3001073 1.38536
+
+right hand position -> 0.3066707 0.2922495 1.436368
+
+frame 107:
+
+left hand position -> -0.2177984 0.3009632 1.384869
+
+right hand position -> 0.306724 0.2927441 1.436488
+
+frame 108:
+
+left hand position -> -0.2164023 0.3014684 1.385187
+
+right hand position -> 0.3074203 0.2925216 1.437269
+
+frame 109:
+
+left hand position -> -0.2129487 0.3096906 1.389584
+
+right hand position -> 0.3078451 0.2930497 1.438288
+
+frame 110:
+
+left hand position -> -0.2120347 0.3101977 1.389892
+
+right hand position -> 0.308394 0.2935444 1.438304
+
+frame 111:
+
+left hand position -> -0.2115776 0.3086452 1.390175
+
+right hand position -> 0.3086823 0.2939088 1.439369
+
+frame 112:
+
+left hand position -> -0.2099598 0.3092796 1.390836
+
+right hand position -> 0.3097478 0.2938178 1.439538
+
+frame 113:
+
+left hand position -> -0.208951 0.309567 1.391328
+
+right hand position -> 0.311505 0.2933808 1.440763
+
+frame 114:
+
+left hand position -> -0.2073222 0.3094679 1.392082
+
+right hand position -> 0.3124934 0.293042 1.441273
+
+frame 115:
+
+left hand position -> -0.2065432 0.3093164 1.391701
+
+right hand position -> 0.3130768 0.2934299 1.441803
+
+frame 116:
+
+left hand position -> -0.2061957 0.3098584 1.392277
+
+right hand position -> 0.3137427 0.2926185 1.4425
+
+frame 117:
+
+left hand position -> -0.206141 0.3103752 1.393592
+
+right hand position -> 0.3155263 0.2926918 1.443008
+
+frame 118:
+
+left hand position -> -0.2043746 0.3088089 1.393054
+
+right hand position -> 0.3164354 0.292552 1.443213
+
+frame 119:
+
+left hand position -> -0.2033568 0.3084622 1.392754
+
+right hand position -> 0.3168942 0.2916875 1.442998
+
+frame 120:
+
+left hand position -> -0.2029073 0.3084348 1.392599
+
+right hand position -> 0.3173521 0.2919211 1.443576
+
+frame 121:
+
+left hand position -> -0.2024253 0.3086718 1.39318
+
+right hand position -> 0.3178623 0.2919166 1.444565
+
+frame 122:
+
+left hand position -> -0.200789 0.3091624 1.393888
+
+right hand position -> 0.318422 0.2921336 1.445133
+
+frame 123:
+
+left hand position -> -0.2000333 0.3094073 1.394078
+
+right hand position -> 0.3192882 0.2915078 1.444834
+
+frame 124:
+
+left hand position -> -0.1992381 0.3091318 1.394226
+
+right hand position -> 0.3203231 0.2895192 1.444628
+
+frame 125:
+
+left hand position -> -0.1991295 0.3093966 1.394802
+
+right hand position -> 0.3211954 0.2899103 1.445319
+
+frame 126:
+
+left hand position -> -0.197676 0.3092836 1.395154
+
+right hand position -> 0.3217442 0.2900638 1.44607
+
+frame 127:
+
+left hand position -> -0.1964054 0.3090559 1.39448
+
+right hand position -> 0.3220227 0.2898458 1.44522
+
+frame 128:
+
+left hand position -> -0.1957994 0.3087631 1.395959
+
+right hand position -> 0.3223982 0.2901736 1.446333
+
+frame 129:
+
+left hand position -> -0.1955313 0.3084149 1.396268
+
+right hand position -> 0.3226892 0.2904973 1.446696
+
+frame 130:
+
+left hand position -> -0.1954396 0.3081855 1.397352
+
+right hand position -> 0.3228129 0.2901958 1.447301
+
+frame 131:
+
+left hand position -> -0.1934777 0.3083401 1.395944
+
+right hand position -> 0.3232601 0.2903676 1.445955
+
+frame 132:
+
+left hand position -> -0.1937691 0.3096904 1.398934
+
+right hand position -> 0.3234472 0.2907218 1.447986
+
+frame 133:
+
+left hand position -> -0.1941735 0.308905 1.397686
+
+right hand position -> 0.3231691 0.2901826 1.446374
+
+frame 134:
+
+left hand position -> -0.1937949 0.3092849 1.398989
+
+right hand position -> 0.3236894 0.2903649 1.447194
+
+frame 135:
+
+left hand position -> -0.1945836 0.3070791 1.397879
+
+right hand position -> 0.3235616 0.2903622 1.446351
+
+frame 136:
+
+left hand position -> -0.1933995 0.3081287 1.398211
+
+right hand position -> 0.3235471 0.2902917 1.446739
+
+frame 137:
+
+left hand position -> -0.1986657 0.3073554 1.397123
+
+right hand position -> 0.3234801 0.2904149 1.445641
+
+frame 138:
+
+left hand position -> -0.1952836 0.3053696 1.398217
+
+right hand position -> 0.3238462 0.2905181 1.446769
+
+frame 139:
+
+left hand position -> -0.1980873 0.3093598 1.39965
+
+right hand position -> 0.3236856 0.290643 1.446411
+
+frame 140:
+
+left hand position -> -0.1968931 0.3072398 1.400571
+
+right hand position -> 0.3237365 0.2906346 1.446771
+
+frame 141:
+
+left hand position -> -0.2002233 0.3087599 1.401499
+
+right hand position -> 0.3233946 0.2906779 1.446865
+
+frame 142:
+
+left hand position -> -0.2015726 0.3014194 1.39927
+
+right hand position -> 0.3231541 0.2903972 1.446533
+
+frame 143:
+
+left hand position -> -0.2022682 0.3072244 1.40109
+
+right hand position -> 0.3226852 0.2904541 1.446228
+
+frame 144:
+
+left hand position -> -0.2014864 0.3048839 1.400858
+
+right hand position -> 0.3230092 0.2908387 1.44642
+
+frame 145:
+
+left hand position -> -0.2054613 0.3033492 1.400652
+
+right hand position -> 0.3225429 0.2908214 1.446768
+
+frame 146:
+
+left hand position -> -0.2065507 0.3013577 1.400271
+
+right hand position -> 0.3222299 0.2907701 1.447091
+
+frame 147:
+
+left hand position -> -0.2071687 0.3020746 1.400204
+
+right hand position -> 0.321842 0.2906801 1.446212
+
+frame 148:
+
+left hand position -> -0.208731 0.3024062 1.400789
+
+right hand position -> 0.321151 0.2918155 1.446633
+
+frame 149:
+
+left hand position -> -0.2098131 0.3024034 1.400692
+
+right hand position -> 0.3208119 0.2920482 1.447051
+
+frame 150:
+
+left hand position -> -0.210318 0.3029238 1.400294
+
+right hand position -> 0.3199189 0.2922117 1.446847
+
+frame 151:
+
+left hand position -> -0.2108273 0.3027792 1.400199
+
+right hand position -> 0.3199594 0.2920358 1.44721
+
+frame 152:
+
+left hand position -> -0.2114275 0.3030883 1.401053
+
+right hand position -> 0.319976 0.2932041 1.448307
+
+frame 153:
+
+left hand position -> -0.2127526 0.3028848 1.399816
+
+right hand position -> 0.3195373 0.2930201 1.447098
+
+frame 154:
+
+left hand position -> -0.2129412 0.3030897 1.400355
+
+right hand position -> 0.3194151 0.2920107 1.447695
+
+frame 155:
+
+left hand position -> -0.2142989 0.2963982 1.397614
+
+right hand position -> 0.3190407 0.2917174 1.447536
+
+frame 156:
+
+left hand position -> -0.2156729 0.2935068 1.396707
+
+right hand position -> 0.3191605 0.2932055 1.448066
+
+frame 157:
+
+left hand position -> -0.2165305 0.2934639 1.397226
+
+right hand position -> 0.3190235 0.2930867 1.44809
+
+frame 158:
+
+left hand position -> -0.2171191 0.2937638 1.39798
+
+right hand position -> 0.3194091 0.2934883 1.448902
+
+frame 159:
+
+left hand position -> -0.2174582 0.2966944 1.398698
+
+right hand position -> 0.3194097 0.2935066 1.448892
+
+frame 160:
+
+left hand position -> -0.2178947 0.2967816 1.397609
+
+right hand position -> 0.3190914 0.2931615 1.447128
+
+frame 161:
+
+left hand position -> -0.2178351 0.2994266 1.399075
+
+right hand position -> 0.3189899 0.2933328 1.447595
+
+frame 162:
+
+left hand position -> -0.218205 0.2996597 1.398868
+
+right hand position -> 0.3188339 0.2936146 1.447476
+
+frame 163:
+
+left hand position -> -0.2179277 0.2994297 1.399766
+
+right hand position -> 0.3186167 0.2936911 1.447988
+
+frame 164:
+
+left hand position -> -0.2179181 0.2998625 1.399808
+
+right hand position -> 0.3185395 0.2936338 1.448161
+
+frame 165:
+
+left hand position -> -0.2170843 0.3048806 1.400747
+
+right hand position -> 0.3184863 0.2936313 1.447493
+
+frame 166:
+
+left hand position -> -0.216549 0.3073566 1.401663
+
+right hand position -> 0.3187792 0.2939073 1.447737
+
+frame 167:
+
+left hand position -> -0.2165293 0.3061592 1.401164
+
+right hand position -> 0.3189813 0.2937996 1.447727
+
+frame 168:
+
+left hand position -> -0.2163576 0.3060147 1.400646
+
+right hand position -> 0.3189486 0.2936874 1.447247
+
+frame 169:
+
+left hand position -> -0.216554 0.3055024 1.400426
+
+right hand position -> 0.3189178 0.2936707 1.447537
+
+frame 170:
+
+left hand position -> -0.2167802 0.3042099 1.399195
+
+right hand position -> 0.3189024 0.2936656 1.446943
+
+frame 171:
+
+left hand position -> -0.2162084 0.3063722 1.39977
+
+right hand position -> 0.3189318 0.2937473 1.446448
+
+frame 172:
+
+left hand position -> -0.21609 0.3059967 1.399648
+
+right hand position -> 0.3188123 0.293679 1.44673
+
+frame 173:
+
+left hand position -> -0.2161923 0.3062556 1.399752
+
+right hand position -> 0.3188033 0.2934566 1.44662
+
+frame 174:
+
+left hand position -> -0.2166482 0.3058307 1.39896
+
+right hand position -> 0.3187127 0.2934474 1.446714
+
+frame 175:
+
+left hand position -> -0.2169583 0.3054198 1.397546
+
+right hand position -> 0.3184069 0.2931076 1.446609
+
+frame 176:
+
+left hand position -> -0.217151 0.3054193 1.397716
+
+right hand position -> 0.3179042 0.293183 1.446823
+
+frame 177:
+
+left hand position -> -0.2178438 0.3052833 1.397334
+
+right hand position -> 0.3178641 0.2934496 1.44734
+
+frame 178:
+
+left hand position -> -0.2186079 0.3044796 1.39706
+
+right hand position -> 0.3179146 0.2935837 1.4479
+
+frame 179:
+
+left hand position -> -0.2184394 0.3042083 1.395833
+
+right hand position -> 0.3171596 0.2937295 1.446844
+
+frame 180:
+
+left hand position -> -0.2186361 0.3035761 1.395324
+
+right hand position -> 0.3174201 0.2931655 1.446393
+
+frame 181:
+
+left hand position -> -0.219561 0.301948 1.395053
+
+right hand position -> 0.3166528 0.2938595 1.447563
+
+frame 182:
+
+left hand position -> -0.2198179 0.3022323 1.39538
+
+right hand position -> 0.3158805 0.2937445 1.447606
+
+frame 183:
+
+left hand position -> -0.2208384 0.299747 1.39355
+
+right hand position -> 0.3152127 0.2935711 1.44769
+
+frame 184:
+
+left hand position -> -0.2215334 0.2997134 1.393807
+
+right hand position -> 0.3144033 0.293437 1.448126
+
+frame 185:
+
+left hand position -> -0.2229894 0.3005288 1.39243
+
+right hand position -> 0.3134168 0.2924796 1.447667
+
+frame 186:
+
+left hand position -> -0.2247101 0.2994843 1.391874
+
+right hand position -> 0.3123904 0.2935307 1.449339
+
+frame 187:
+
+left hand position -> -0.2254401 0.2990166 1.390525
+
+right hand position -> 0.3117547 0.2932982 1.449651
+
+frame 188:
+
+left hand position -> -0.2249973 0.2997969 1.390584
+
+right hand position -> 0.3102827 0.2926962 1.450573
+
+frame 189:
+
+left hand position -> -0.2260722 0.3000102 1.388595
+
+right hand position -> 0.3090867 0.2926197 1.4505
+
+frame 190:
+
+left hand position -> -0.2271518 0.3001662 1.388645
+
+right hand position -> 0.3078448 0.2931329 1.45182
+
+frame 191:
+
+left hand position -> -0.2277265 0.3002048 1.387437
+
+right hand position -> 0.3067305 0.2912159 1.451706
+
+frame 192:
+
+left hand position -> -0.2283402 0.298986 1.387293
+
+right hand position -> 0.3055147 0.2910876 1.453202
+
+frame 193:
+
+left hand position -> -0.229378 0.3015665 1.386689
+
+right hand position -> 0.3038579 0.2910025 1.453215
+
+frame 194:
+
+left hand position -> -0.23012 0.3020693 1.386661
+
+right hand position -> 0.3025522 0.2910756 1.454406
+
+frame 195:
+
+left hand position -> -0.2312907 0.3011285 1.386411
+
+right hand position -> 0.3006268 0.2912387 1.454831
+
+frame 196:
+
+left hand position -> -0.2322677 0.300796 1.386024
+
+right hand position -> 0.2993085 0.2892173 1.456027
+
+frame 197:
+
+left hand position -> -0.2335338 0.3011888 1.385656
+
+right hand position -> 0.2979122 0.2893248 1.455596
+
+frame 198:
+
+left hand position -> -0.2345843 0.3003688 1.384979
+
+right hand position -> 0.2968652 0.2885654 1.456868
+
+frame 199:
+
+left hand position -> -0.2357862 0.2998129 1.384793
+
+right hand position -> 0.2963273 0.2886923 1.457408
+
+frame 200:
+
+left hand position -> -0.2366508 0.2989224 1.383867
+
+right hand position -> 0.2954626 0.2877181 1.457214
+
+frame 201:
+
+left hand position -> -0.2371002 0.2979189 1.384456
+
+right hand position -> 0.2956996 0.2839025 1.457561
+
+frame 202:
+
+left hand position -> -0.2375588 0.2980756 1.384728
+
+right hand position -> 0.2942252 0.2816745 1.457062
+
+frame 203:
+
+left hand position -> -0.2385288 0.2963794 1.384146
+
+right hand position -> 0.2938155 0.2819079 1.457366
+
+frame 204:
+
+left hand position -> -0.2396728 0.2960005 1.385755
+
+right hand position -> 0.2939344 0.2814772 1.458351
+
+frame 205:
+
+left hand position -> -0.2402308 0.2961259 1.386724
+
+right hand position -> 0.2933266 0.2840846 1.459123
+
+frame 206:
+
+left hand position -> -0.240413 0.2966333 1.387464
+
+right hand position -> 0.2936938 0.2794947 1.457224
+
+frame 207:
+
+left hand position -> -0.2413486 0.2964364 1.389822
+
+right hand position -> 0.2930582 0.280236 1.459321
+
+frame 208:
+
+left hand position -> -0.241222 0.2942667 1.389026
+
+right hand position -> 0.2926184 0.2789325 1.457888
+
+frame 209:
+
+left hand position -> -0.2413695 0.2940584 1.390571
+
+right hand position -> 0.292723 0.2784522 1.458325
+
+frame 210:
+
+left hand position -> -0.2409873 0.2933325 1.3917
+
+right hand position -> 0.2928767 0.2778768 1.459013
+
+frame 211:
+
+left hand position -> -0.2409873 0.2931515 1.39136
+
+right hand position -> 0.2924888 0.2769721 1.458521
+
+frame 212:
+
+left hand position -> -0.2404458 0.2927784 1.392798
+
+right hand position -> 0.2923722 0.2770914 1.460263
+
+frame 213:
+
+left hand position -> -0.2394608 0.2935735 1.393351
+
+right hand position -> 0.2926829 0.2750228 1.460343
+
+frame 214:
+
+left hand position -> -0.2397403 0.2938675 1.394408
+
+right hand position -> 0.2927183 0.2738673 1.461195
+
+frame 215:
+
+left hand position -> -0.2393249 0.2933013 1.394727
+
+right hand position -> 0.2927744 0.2734253 1.462632
+
+frame 216:
+
+left hand position -> -0.2400227 0.2906002 1.395143
+
+right hand position -> 0.2932756 0.2728029 1.464202
+
+frame 217:
+
+left hand position -> -0.239643 0.2903802 1.39509
+
+right hand position -> 0.2934564 0.2726226 1.465342
+
+frame 218:
+
+left hand position -> -0.2399715 0.2904849 1.395526
+
+right hand position -> 0.2933818 0.2700787 1.466032
+
+frame 219:
+
+left hand position -> -0.2397504 0.2906162 1.396295
+
+right hand position -> 0.2936098 0.2703221 1.467538
+
+frame 220:
+
+left hand position -> -0.2397337 0.290318 1.396262
+
+right hand position -> 0.2937229 0.2700694 1.468288
+
+frame 221:
+
+left hand position -> -0.2404243 0.2895851 1.397948
+
+right hand position -> 0.2933906 0.269615 1.470183
+
+frame 222:
+
+left hand position -> -0.240557 0.2871964 1.397154
+
+right hand position -> 0.2924634 0.2698381 1.470273
+
+frame 223:
+
+left hand position -> -0.2409756 0.286621 1.398468
+
+right hand position -> 0.2926015 0.2696946 1.471107
+
+frame 224:
+
+left hand position -> -0.2415822 0.2859676 1.399746
+
+right hand position -> 0.2927679 0.2673203 1.471225
+
+frame 225:
+
+left hand position -> -0.2423967 0.2846252 1.401198
+
+right hand position -> 0.2926258 0.2667077 1.472467
+
+frame 226:
+
+left hand position -> -0.243103 0.2852764 1.402975
+
+right hand position -> 0.2919722 0.265691 1.47248
+
+frame 227:
+
+left hand position -> -0.2445792 0.2849814 1.404318
+
+right hand position -> 0.2915378 0.2660113 1.473281
+
+frame 228:
+
+left hand position -> -0.2455913 0.2824692 1.406189
+
+right hand position -> 0.2908552 0.26569 1.474866
+
+frame 229:
+
+left hand position -> -0.2462418 0.2828768 1.408405
+
+right hand position -> 0.2899575 0.2659582 1.476555
+
+frame 230:
+
+left hand position -> -0.246966 0.2809639 1.41052
+
+right hand position -> 0.2896469 0.2653685 1.478326
+
+frame 231:
+
+left hand position -> -0.2469508 0.2850996 1.412484
+
+right hand position -> 0.2886414 0.2638367 1.477787
+
+frame 232:
+
+left hand position -> -0.2479928 0.2840241 1.414293
+
+right hand position -> 0.2880151 0.2622322 1.478243
+
+frame 233:
+
+left hand position -> -0.2484974 0.2827026 1.416496
+
+right hand position -> 0.287236 0.2625043 1.480918
+
+frame 234:
+
+left hand position -> -0.2501208 0.2843319 1.417757
+
+right hand position -> 0.2864994 0.2617658 1.481803
+
+frame 235:
+
+left hand position -> -0.251342 0.2832524 1.42145
+
+right hand position -> 0.2846243 0.2606512 1.484758
+
+frame 236:
+
+left hand position -> -0.2521836 0.2841697 1.42359
+
+right hand position -> 0.2841668 0.2599643 1.486605
+
+frame 237:
+
+left hand position -> -0.2523839 0.2818554 1.425272
+
+right hand position -> 0.2838993 0.254517 1.486521
+
+frame 238:
+
+left hand position -> -0.2532956 0.2813743 1.42654
+
+right hand position -> 0.2832185 0.255637 1.489118
+
+frame 239:
+
+left hand position -> -0.2559753 0.2779196 1.428284
+
+right hand position -> 0.281175 0.2552219 1.492661
+
+frame 240:
+
+left hand position -> -0.2552738 0.2772039 1.428481
+
+right hand position -> 0.2808844 0.2538161 1.492362
+
+frame 241:
+
+left hand position -> -0.2575665 0.2794197 1.431485
+
+right hand position -> 0.2803864 0.2545637 1.494133
+
+frame 242:
+
+left hand position -> -0.2582399 0.2771662 1.431901
+
+right hand position -> 0.2794906 0.255519 1.494708
+
+frame 243:
+
+left hand position -> -0.2578192 0.2755638 1.433011
+
+right hand position -> 0.2787398 0.2556301 1.496158
+
+frame 244:
+
+left hand position -> -0.2622873 0.2759695 1.436349
+
+right hand position -> 0.2773562 0.2557152 1.497007
+
+frame 245:
+
+left hand position -> -0.2624418 0.2764356 1.438252
+
+right hand position -> 0.2769321 0.2570845 1.49868
+
+frame 246:
+
+left hand position -> -0.2625243 0.2761106 1.438854
+
+right hand position -> 0.2759992 0.2569807 1.498832
+
+frame 247:
+
+left hand position -> -0.2628456 0.2735828 1.439634
+
+right hand position -> 0.276127 0.2564652 1.499429
+
+frame 248:
+
+left hand position -> -0.2630698 0.2725051 1.44078
+
+right hand position -> 0.2754899 0.2570117 1.499785
+
+frame 249:
+
+left hand position -> -0.2631651 0.272006 1.443598
+
+right hand position -> 0.2726342 0.257593 1.500841
+
+frame 250:
+
+left hand position -> -0.2630201 0.2717972 1.444235
+
+right hand position -> 0.2723948 0.2579955 1.500946
+
+frame 251:
+
+left hand position -> -0.2631261 0.2718402 1.444543
+
+right hand position -> 0.2725824 0.2575897 1.50085
+
+frame 252:
+
+left hand position -> -0.2632154 0.2705264 1.443807
+
+right hand position -> 0.2726637 0.2588395 1.500578
+
+frame 253:
+
+left hand position -> -0.2633629 0.2704422 1.443711
+
+right hand position -> 0.2723483 0.2589877 1.500615
+
+frame 254:
+
+left hand position -> -0.2636867 0.2705262 1.444475
+
+right hand position -> 0.2725015 0.2588092 1.500459
+
+frame 255:
+
+left hand position -> -0.2639246 0.2710606 1.444074
+
+right hand position -> 0.272562 0.2587185 1.50062
+
+frame 256:
+
+left hand position -> -0.2638278 0.2713206 1.443634
+
+right hand position -> 0.2724634 0.2587257 1.499731
+
+frame 257:
+
+left hand position -> -0.2631491 0.2707303 1.442131
+
+right hand position -> 0.2724962 0.2599236 1.499324
+
+frame 258:
+
+left hand position -> -0.2631493 0.270609 1.442804
+
+right hand position -> 0.272326 0.2599311 1.500763
+
+frame 259:
+
+left hand position -> -0.2626939 0.2705865 1.441773
+
+right hand position -> 0.2727564 0.2595977 1.499572
+
+frame 260:
+
+left hand position -> -0.2621991 0.2710301 1.441275
+
+right hand position -> 0.2728066 0.2600515 1.499492
+
+frame 261:
+
+left hand position -> -0.2619202 0.2701781 1.440746
+
+right hand position -> 0.2727778 0.2599427 1.499622
+
+frame 262:
+
+left hand position -> -0.2618556 0.2712625 1.441976
+
+right hand position -> 0.272846 0.2591794 1.500503
+
+frame 263:
+
+left hand position -> -0.2614785 0.2712777 1.442003
+
+right hand position -> 0.2730698 0.2585564 1.500245
+
+frame 264:
+
+left hand position -> -0.2618167 0.2704915 1.443651
+
+right hand position -> 0.2732269 0.2592523 1.502388
+
+frame 265:
+
+left hand position -> -0.2614985 0.2708105 1.443916
+
+right hand position -> 0.2746094 0.2606466 1.503817
+
+frame 266:
+
+left hand position -> -0.2612278 0.2693028 1.445037
+
+right hand position -> 0.2733383 0.2587474 1.504623
+
+frame 267:
+
+left hand position -> -0.2613684 0.2692869 1.445194
+
+right hand position -> 0.2731539 0.2592108 1.504848
+
+frame 268:
+
+left hand position -> -0.2611528 0.2690488 1.445438
+
+right hand position -> 0.2737122 0.2568559 1.504002
+
+frame 269:
+
+left hand position -> -0.2617067 0.2683062 1.446539
+
+right hand position -> 0.2748116 0.259696 1.505845
+
+frame 270:
+
+left hand position -> -0.2611972 0.2679737 1.44747
+
+right hand position -> 0.2741436 0.2600774 1.506739
+
+frame 271:
+
+left hand position -> -0.2616517 0.2656537 1.448385
+
+right hand position -> 0.2733608 0.2590777 1.507145
+
+frame 272:
+
+left hand position -> -0.2617737 0.2649809 1.448752
+
+right hand position -> 0.2738225 0.2570831 1.506889
+
+frame 273:
+
+left hand position -> -0.2618144 0.2647206 1.44924
+
+right hand position -> 0.273397 0.2589469 1.507541
+
+frame 274:
+
+left hand position -> -0.2625659 0.264998 1.450935
+
+right hand position -> 0.2722226 0.2581815 1.508647
+
+frame 275:
+
+left hand position -> -0.264051 0.2651488 1.452325
+
+right hand position -> 0.2713093 0.2596036 1.508117
+
+frame 276:
+
+left hand position -> -0.2649313 0.2654621 1.453836
+
+right hand position -> 0.2710277 0.2606557 1.509781
+
+frame 277:
+
+left hand position -> -0.2655054 0.2630303 1.453727
+
+right hand position -> 0.2700358 0.2607592 1.509784
+
+frame 278:
+
+left hand position -> -0.2657117 0.2632937 1.453733
+
+right hand position -> 0.2694633 0.2613039 1.509622
+
+frame 279:
+
+left hand position -> -0.266618 0.2630996 1.455537
+
+right hand position -> 0.2692199 0.260956 1.510421
+
+frame 280:
+
+left hand position -> -0.2671776 0.2634667 1.45672
+
+right hand position -> 0.2683744 0.2614131 1.509959
+
+frame 281:
+
+left hand position -> -0.2686027 0.2632265 1.457733
+
+right hand position -> 0.2679492 0.2613183 1.510366
+
+frame 282:
+
+left hand position -> -0.2687964 0.263262 1.458156
+
+right hand position -> 0.2672112 0.2612551 1.509871
+
+frame 283:
+
+left hand position -> -0.2693307 0.2633289 1.459303
+
+right hand position -> 0.2672397 0.2607373 1.510694
+
+frame 284:
+
+left hand position -> -0.269319 0.2628721 1.458748
+
+right hand position -> 0.2660116 0.2614883 1.509959
+
+frame 285:
+
+left hand position -> -0.2697605 0.2628158 1.459909
+
+right hand position -> 0.265632 0.2614287 1.510287
+
+frame 286:
+
+left hand position -> -0.2694614 0.2632807 1.458567
+
+right hand position -> 0.2653083 0.2614522 1.508846
+
+frame 287:
+
+left hand position -> -0.2696302 0.263048 1.458609
+
+right hand position -> 0.2657498 0.2599683 1.508713
+
+frame 288:
+
+left hand position -> -0.2695881 0.2636059 1.458086
+
+right hand position -> 0.2663749 0.2606614 1.508603
+
+frame 289:
+
+left hand position -> -0.2699243 0.2618359 1.457055
+
+right hand position -> 0.2667098 0.2606384 1.508513
+
+frame 290:
+
+left hand position -> -0.2697137 0.2625597 1.457147
+
+right hand position -> 0.266877 0.2605774 1.5078
+
+frame 291:
+
+left hand position -> -0.2688791 0.2633958 1.45503
+
+right hand position -> 0.2669674 0.26136 1.50702
+
+frame 292:
+
+left hand position -> -0.2684066 0.265417 1.455535
+
+right hand position -> 0.2683693 0.2606331 1.507448
+
+frame 293:
+
+left hand position -> -0.2678234 0.2650281 1.453977
+
+right hand position -> 0.2684968 0.2599391 1.506316
+
+frame 294:
+
+left hand position -> -0.2677079 0.2659691 1.454031
+
+right hand position -> 0.2693353 0.2607152 1.506981
+
+frame 295:
+
+left hand position -> -0.2651259 0.2674113 1.452271
+
+right hand position -> 0.2700339 0.2633311 1.506259
+
+frame 296:
+
+left hand position -> -0.2640575 0.2678291 1.450427
+
+right hand position -> 0.2707692 0.2641032 1.505968
+
+frame 297:
+
+left hand position -> -0.263586 0.2679997 1.449832
+
+right hand position -> 0.2739931 0.2321841 1.508515
+
+frame 298:
+
+left hand position -> -0.2630691 0.2704931 1.449309
+
+right hand position -> 0.2762618 0.2325011 1.507205
+
+frame 299:
+
+left hand position -> -0.2637281 0.2712896 1.446553
+
+right hand position -> 0.2800608 0.2324509 1.506988
+
+frame 300:
+
+left hand position -> -0.2639926 0.2724628 1.445852
+
+right hand position -> 0.2840095 0.2328033 1.505722
+
+frame 301:
+
+left hand position -> -0.2649672 0.2730254 1.443919
+
+right hand position -> 0.2893676 0.2373789 1.503038
+
+frame 302:
+
+left hand position -> -0.2652474 0.2759552 1.442912
+
+right hand position -> 0.2882375 0.2663493 1.50387
+
+frame 303:
+
+left hand position -> -0.266335 0.2774402 1.441749
+
+right hand position -> 0.2928874 0.2671487 1.504007
+
+frame 304:
+
+left hand position -> -0.2661344 0.2805195 1.440456
+
+right hand position -> 0.2985556 0.2743521 1.506492
+
+frame 305:
+
+left hand position -> -0.2659337 0.2809433 1.438044
+
+right hand position -> 0.3035475 0.2736873 1.505361
+
+frame 306:
+
+left hand position -> -0.2653748 0.2814859 1.437107
+
+right hand position -> 0.3080061 0.2738912 1.50576
+
+frame 307:
+
+left hand position -> -0.2640635 0.2806349 1.435171
+
+right hand position -> 0.311554 0.276321 1.506531
+
+frame 308:
+
+left hand position -> -0.2625375 0.2826508 1.433641
+
+right hand position -> 0.319135 0.2794305 1.507824
+
+frame 309:
+
+left hand position -> -0.2605537 0.2816043 1.432312
+
+right hand position -> 0.3221861 0.2770384 1.507554
+
+frame 310:
+
+left hand position -> -0.2604167 0.2813455 1.431258
+
+right hand position -> 0.3238219 0.2785211 1.508186
+
+frame 311:
+
+left hand position -> -0.2587391 0.2796729 1.429318
+
+right hand position -> 0.3245506 0.2799678 1.508132
+
+frame 312:
+
+left hand position -> -0.2579789 0.2797549 1.429209
+
+right hand position -> 0.3252023 0.2804802 1.509426
+
+frame 313:
+
+left hand position -> -0.2573199 0.2807965 1.428358
+
+right hand position -> 0.3271293 0.2806076 1.50985
+
+frame 314:
+
+left hand position -> -0.2578239 0.2815344 1.428549
+
+right hand position -> 0.3283361 0.2810515 1.510509
+
+frame 315:
+
+left hand position -> -0.2577364 0.2833061 1.429702
+
+right hand position -> 0.3289656 0.2833294 1.511513
+
+frame 316:
+
+left hand position -> -0.2578284 0.283226 1.42922
+
+right hand position -> 0.3293096 0.2839563 1.511275
+
+frame 317:
+
+left hand position -> -0.2579649 0.2829168 1.429241
+
+right hand position -> 0.329264 0.2835708 1.511031
+
+frame 318:
+
+left hand position -> -0.2578336 0.2828122 1.428929
+
+right hand position -> 0.3291664 0.2834025 1.511022
+
+frame 319:
+
+left hand position -> -0.2580858 0.282901 1.428884
+
+right hand position -> 0.3292392 0.2835937 1.510461
+
+frame 320:
+
+left hand position -> -0.258099 0.2825797 1.427572
+
+right hand position -> 0.329845 0.2848084 1.510834
+
+frame 321:
+
+left hand position -> -0.2580557 0.2826628 1.427115
+
+right hand position -> 0.3297701 0.2851381 1.51023
+
+frame 322:
+
+left hand position -> -0.258207 0.2824893 1.427251
+
+right hand position -> 0.329551 0.2862848 1.511503
+
+frame 323:
+
+left hand position -> -0.2579715 0.2823466 1.427226
+
+right hand position -> 0.3290496 0.2863524 1.510853
+
+frame 324:
+
+left hand position -> -0.2582771 0.2825212 1.42791
+
+right hand position -> 0.327981 0.2862216 1.511142
+
+frame 325:
+
+left hand position -> -0.2582693 0.2825617 1.428146
+
+right hand position -> 0.3274264 0.2861833 1.5115
+
+frame 326:
+
+left hand position -> -0.2583718 0.2824723 1.428287
+
+right hand position -> 0.3262289 0.2865668 1.511616
+
+frame 327:
+
+left hand position -> -0.2586171 0.2816378 1.42776
+
+right hand position -> 0.3253835 0.2865796 1.512178
+
+frame 328:
+
+left hand position -> -0.2596248 0.281181 1.42781
+
+right hand position -> 0.3239641 0.2862949 1.511115
+
+frame 329:
+
+left hand position -> -0.2606902 0.2809188 1.428432
+
+right hand position -> 0.322834 0.2884438 1.512268
+
+frame 330:
+
+left hand position -> -0.2606317 0.281312 1.428617
+
+right hand position -> 0.3214668 0.2884305 1.512279
+
+frame 331:
+
+left hand position -> -0.261788 0.2812825 1.430026
+
+right hand position -> 0.3208918 0.2883123 1.512572
+
+frame 332:
+
+left hand position -> -0.262231 0.2810933 1.430089
+
+right hand position -> 0.3199655 0.2882901 1.511868
+
+frame 333:
+
+left hand position -> -0.262302 0.2810631 1.430884
+
+right hand position -> 0.3199743 0.2881152 1.512324
+
+frame 334:
+
+left hand position -> -0.2620043 0.2807163 1.430924
+
+right hand position -> 0.3197929 0.2880499 1.512663
+
+frame 335:
+
+left hand position -> -0.261142 0.2802071 1.430741
+
+right hand position -> 0.3189149 0.2869247 1.511872
+
+frame 336:
+
+left hand position -> -0.2616901 0.2821266 1.43292
+
+right hand position -> 0.318691 0.2867962 1.51297
+
+frame 337:
+
+left hand position -> -0.2625319 0.2827136 1.434082
+
+right hand position -> 0.3181438 0.2872021 1.513952
+
+frame 338:
+
+left hand position -> -0.261503 0.2824999 1.432863
+
+right hand position -> 0.3177167 0.2862649 1.513093
+
+frame 339:
+
+left hand position -> -0.2609589 0.2814471 1.433237
+
+right hand position -> 0.3181639 0.2868771 1.514898
+
+frame 340:
+
+left hand position -> -0.2610595 0.2815173 1.433653
+
+right hand position -> 0.3193263 0.2866923 1.515651
+
+frame 341:
+
+left hand position -> -0.261982 0.2822492 1.43277
+
+right hand position -> 0.3197203 0.284266 1.515026
+
+frame 342:
+
+left hand position -> -0.2619997 0.2819672 1.431834
+
+right hand position -> 0.3202417 0.2845424 1.515233
+
+frame 343:
+
+left hand position -> -0.2612063 0.2811721 1.431567
+
+right hand position -> 0.3213805 0.2852323 1.515741
+
+frame 344:
+
+left hand position -> -0.2602556 0.2830933 1.431221
+
+right hand position -> 0.3219968 0.285361 1.515507
+
+frame 345:
+
+left hand position -> -0.2597012 0.2823262 1.430703
+
+right hand position -> 0.3222748 0.2848433 1.515082
+
+frame 346:
+
+left hand position -> -0.2588695 0.2825169 1.430766
+
+right hand position -> 0.323343 0.284603 1.515183
+
+frame 347:
+
+left hand position -> -0.2592248 0.2836709 1.431723
+
+right hand position -> 0.3239754 0.2848092 1.51562
+
+frame 348:
+
+left hand position -> -0.2594017 0.2838728 1.43174
+
+right hand position -> 0.3245916 0.2852441 1.515149
+
+frame 349:
+
+left hand position -> -0.2587551 0.2830811 1.43135
+
+right hand position -> 0.3250923 0.2850853 1.514857
+
+frame 350:
+
+left hand position -> -0.2586517 0.2831861 1.431116
+
+right hand position -> 0.3257861 0.2851269 1.514453
+
+frame 351:
+
+left hand position -> -0.2583902 0.2829897 1.431121
+
+right hand position -> 0.3263243 0.2848038 1.514208
+
+frame 352:
+
+left hand position -> -0.2585178 0.2832022 1.431816
+
+right hand position -> 0.3270217 0.2849139 1.515007
+
+frame 353:
+
+left hand position -> -0.2592387 0.2840133 1.432585
+
+right hand position -> 0.3280007 0.2846434 1.515409
+
+frame 354:
+
+left hand position -> -0.2586643 0.2831161 1.432371
+
+right hand position -> 0.3292823 0.2842638 1.514495
+
+frame 355:
+
+left hand position -> -0.2583703 0.2830608 1.432412
+
+right hand position -> 0.330179 0.2844908 1.51419
+
+frame 356:
+
+left hand position -> -0.2598126 0.2850586 1.433137
+
+right hand position -> 0.3305135 0.2844553 1.514814
+
+frame 357:
+
+left hand position -> -0.2604227 0.2858303 1.434916
+
+right hand position -> 0.3324424 0.2837475 1.515123
+
+frame 358:
+
+left hand position -> -0.2617726 0.2866697 1.435078
+
+right hand position -> 0.3331747 0.2837418 1.515064
+
+frame 359:
+
+left hand position -> -0.2602891 0.2839131 1.434579
+
+right hand position -> 0.3338593 0.2839234 1.515377
+
+frame 360:
+
+left hand position -> -0.2621988 0.284841 1.434653
+
+right hand position -> 0.3343547 0.2842066 1.515591
+
+frame 361:
+
+left hand position -> -0.2635643 0.2879626 1.436207
+
+right hand position -> 0.3346576 0.2841872 1.516353
+
+frame 362:
+
+left hand position -> -0.2636122 0.2882985 1.436228
+
+right hand position -> 0.3354114 0.2848246 1.516515
+
+frame 363:
+
+left hand position -> -0.2638381 0.2868812 1.436663
+
+right hand position -> 0.3355365 0.284674 1.516824
+
+frame 364:
+
+left hand position -> -0.264454 0.288255 1.437232
+
+right hand position -> 0.3356627 0.2848216 1.517454
+
+frame 365:
+
+left hand position -> -0.2651291 0.2886256 1.436989
+
+right hand position -> 0.3362912 0.2852737 1.517552
+
+frame 366:
+
+left hand position -> -0.2655945 0.2888177 1.43703
+
+right hand position -> 0.3364223 0.2855471 1.517442
+
+frame 367:
+
+left hand position -> -0.2665537 0.2880645 1.437526
+
+right hand position -> 0.3363467 0.2855341 1.517573
+
+frame 368:
+
+left hand position -> -0.2674097 0.2878123 1.439056
+
+right hand position -> 0.3364294 0.2857154 1.518752
+
+frame 369:
+
+left hand position -> -0.2686393 0.2878572 1.440102
+
+right hand position -> 0.3360038 0.2856982 1.518823
+
+frame 370:
+
+left hand position -> -0.2690774 0.2880645 1.440778
+
+right hand position -> 0.3359185 0.2856902 1.518282
+
+frame 371:
+
+left hand position -> -0.2693553 0.2882833 1.441029
+
+right hand position -> 0.3359383 0.2854811 1.517474
+
+frame 372:
+
+left hand position -> -0.2691068 0.2880728 1.440829
+
+right hand position -> 0.3356352 0.2856423 1.517292
+
+frame 373:
+
+left hand position -> -0.2698491 0.2878424 1.441493
+
+right hand position -> 0.3357557 0.285507 1.518142
+
+frame 374:
+
+left hand position -> -0.2696158 0.2884986 1.442049
+
+right hand position -> 0.3358564 0.2854727 1.518245
+
+frame 375:
+
+left hand position -> -0.2694951 0.2883464 1.44128
+
+right hand position -> 0.3357661 0.2854839 1.517718
+
+frame 376:
+
+left hand position -> -0.2696664 0.2881086 1.441868
+
+right hand position -> 0.3359864 0.2856634 1.518176
+
+frame 377:
+
+left hand position -> -0.2690665 0.2878118 1.44182
+
+right hand position -> 0.3359455 0.2849178 1.518726
+
+frame 378:
+
+left hand position -> -0.2687427 0.2883132 1.441785
+
+right hand position -> 0.3361818 0.2852752 1.518728
+
+frame 379:
+
+left hand position -> -0.2684372 0.2886274 1.442062
+
+right hand position -> 0.3362423 0.2852843 1.519256
+
+frame 380:
+
+left hand position -> -0.2682353 0.2883926 1.44191
+
+right hand position -> 0.336442 0.2850952 1.519822
+
+frame 381:
+
+left hand position -> -0.2683537 0.2885638 1.442439
+
+right hand position -> 0.3369396 0.2854778 1.519824
+
+frame 382:
+
+left hand position -> -0.2681989 0.2888611 1.442368
+
+right hand position -> 0.3369316 0.2847448 1.519663
+
+frame 383:
+
+left hand position -> -0.2679865 0.2886223 1.441929
+
+right hand position -> 0.3375199 0.2848658 1.519486
+
+frame 384:
+
+left hand position -> -0.2678566 0.2889255 1.442769
+
+right hand position -> 0.3382249 0.2848906 1.520192
+
+frame 385:
+
+left hand position -> -0.2679313 0.2890834 1.442424
+
+right hand position -> 0.3382431 0.2847862 1.519442
+
+frame 386:
+
+left hand position -> -0.2678565 0.2890821 1.442233
+
+right hand position -> 0.3385896 0.2848383 1.518981
+
+frame 387:
+
+left hand position -> -0.267512 0.288839 1.442289
+
+right hand position -> 0.3386493 0.2850375 1.519092
+
+frame 388:
+
+left hand position -> -0.2673842 0.2889594 1.442258
+
+right hand position -> 0.3387844 0.28477 1.518536
+
+frame 389:
+
+left hand position -> -0.2672375 0.2889955 1.442054
+
+right hand position -> 0.3388948 0.2849427 1.518601
+
+frame 390:
+
+left hand position -> -0.2672142 0.2887585 1.44275
+
+right hand position -> 0.3389988 0.2851202 1.52016
+
+frame 391:
+
+left hand position -> -0.2667107 0.2891279 1.443679
+
+right hand position -> 0.3392195 0.2852936 1.520822
+
+frame 392:
+
+left hand position -> -0.2664607 0.2901214 1.444219
+
+right hand position -> 0.3391775 0.2849465 1.520698
+
+frame 393:
+
+left hand position -> -0.266766 0.2896278 1.443393
+
+right hand position -> 0.3393694 0.2850704 1.519916
+
+frame 394:
+
+left hand position -> -0.266643 0.2898496 1.442936
+
+right hand position -> 0.3396954 0.2852248 1.520352
+
+frame 395:
+
+left hand position -> -0.2670121 0.2897703 1.441924
+
+right hand position -> 0.3401338 0.2852247 1.520696
+
+frame 396:
+
+left hand position -> -0.2657451 0.2900513 1.43985
+
+right hand position -> 0.3399702 0.2851548 1.51962
+
+frame 397:
+
+left hand position -> -0.2655427 0.2910113 1.440402
+
+right hand position -> 0.340174 0.2852735 1.520313
+
+frame 398:
+
+left hand position -> -0.2649113 0.2903544 1.439833
+
+right hand position -> 0.3397412 0.2853963 1.520122
+
+frame 399:
+
+left hand position -> -0.2646077 0.2920437 1.441262
+
+right hand position -> 0.3395034 0.2852102 1.521021
+
+frame 400:
+
+left hand position -> -0.2635165 0.2914574 1.441146
+
+right hand position -> 0.3394135 0.2847082 1.520555
+
+frame 401:
+
+left hand position -> -0.2640706 0.2921665 1.442094
+
+right hand position -> 0.3402196 0.2850513 1.521807
+
+frame 402:
+
+left hand position -> -0.2643948 0.2924773 1.442469
+
+right hand position -> 0.3403389 0.285046 1.521828
+
+frame 403:
+
+left hand position -> -0.2633583 0.2918591 1.442047
+
+right hand position -> 0.340885 0.2853116 1.521111
+
+frame 404:
+
+left hand position -> -0.2632546 0.2915377 1.441513
+
+right hand position -> 0.3409355 0.2852112 1.520506
+
+frame 405:
+
+left hand position -> -0.2633903 0.2916569 1.441864
+
+right hand position -> 0.3410771 0.2851678 1.520898
+
+frame 406:
+
+left hand position -> -0.2625722 0.2916863 1.441723
+
+right hand position -> 0.3407806 0.2853636 1.520504
+
+frame 407:
+
+left hand position -> -0.2622598 0.2916245 1.441628
+
+right hand position -> 0.3408107 0.2859314 1.520833
+
+frame 408:
+
+left hand position -> -0.2621858 0.291527 1.442496
+
+right hand position -> 0.3411095 0.2859631 1.521273
+
+frame 409:
+
+left hand position -> -0.2630949 0.2921524 1.443205
+
+right hand position -> 0.3413037 0.2859612 1.521302
+
+frame 410:
+
+left hand position -> -0.2626938 0.2925704 1.443032
+
+right hand position -> 0.3424044 0.2855401 1.521183
+
+frame 411:
+
+left hand position -> -0.2622159 0.2928738 1.443213
+
+right hand position -> 0.3428386 0.2855324 1.521689
+
+frame 412:
+
+left hand position -> -0.2612041 0.2923921 1.44304
+
+right hand position -> 0.3425545 0.2857417 1.522211
+
+frame 413:
+
+left hand position -> -0.2610339 0.2928316 1.444457
+
+right hand position -> 0.3426559 0.2855184 1.522871
+
+frame 414:
+
+left hand position -> -0.2608861 0.2932861 1.445516
+
+right hand position -> 0.3423639 0.2852959 1.523523
+
+frame 415:
+
+left hand position -> -0.2607895 0.2932506 1.446546
+
+right hand position -> 0.3422936 0.2859886 1.524962
+
+frame 416:
+
+left hand position -> -0.2606286 0.2935434 1.44679
+
+right hand position -> 0.3419043 0.2859021 1.524919
+
+frame 417:
+
+left hand position -> -0.2604217 0.2924564 1.44824
+
+right hand position -> 0.3424214 0.2863067 1.527236
+
+frame 418:
+
+left hand position -> -0.26069 0.2928717 1.449515
+
+right hand position -> 0.3423102 0.2864438 1.527886
+
+frame 419:
+
+left hand position -> -0.2606319 0.2950417 1.451054
+
+right hand position -> 0.3429818 0.286683 1.528755
+
+frame 420:
+
+left hand position -> -0.2610789 0.295675 1.453253
+
+right hand position -> 0.3430994 0.2866259 1.529907
+
+frame 421:
+
+left hand position -> -0.2615763 0.2966232 1.455649
+
+right hand position -> 0.3429518 0.2868386 1.530779
+
+frame 422:
+
+left hand position -> -0.2613943 0.2971373 1.458401
+
+right hand position -> 0.3437736 0.2874377 1.532653
+
+frame 423:
+
+left hand position -> -0.2622587 0.2999068 1.460076
+
+right hand position -> 0.3445061 0.2873262 1.533682
+
+frame 424:
+
+left hand position -> -0.2632145 0.3004315 1.463154
+
+right hand position -> 0.3460184 0.2887415 1.536037
+
+frame 425:
+
+left hand position -> -0.2647656 0.3006661 1.465487
+
+right hand position -> 0.3470338 0.2887341 1.537259
+
+frame 426:
+
+left hand position -> -0.2664552 0.3009354 1.468419
+
+right hand position -> 0.3482903 0.2890161 1.539357
+
+frame 427:
+
+left hand position -> -0.2671075 0.3014856 1.470203
+
+right hand position -> 0.348493 0.2896896 1.539854
+
+frame 428:
+
+left hand position -> -0.2675529 0.3018411 1.471138
+
+right hand position -> 0.3487294 0.2890592 1.539639
+
+frame 429:
+
+left hand position -> -0.267993 0.3018118 1.472256
+
+right hand position -> 0.3492562 0.2894225 1.540048
+
+frame 430:
+
+left hand position -> -0.2678332 0.3015707 1.473403
+
+right hand position -> 0.3498243 0.2890725 1.539933
+
+frame 431:
+
+left hand position -> -0.2673393 0.3015606 1.473507
+
+right hand position -> 0.3511616 0.2891856 1.540526
+
+frame 432:
+
+left hand position -> -0.2674716 0.3016972 1.473998
+
+right hand position -> 0.3509921 0.28967 1.541106
+
+frame 433:
+
+left hand position -> -0.267527 0.3021225 1.474481
+
+right hand position -> 0.3511196 0.2897872 1.541935
+
+frame 434:
+
+left hand position -> -0.2671731 0.3028089 1.475412
+
+right hand position -> 0.35128 0.290636 1.544412
+
+frame 435:
+
+left hand position -> -0.2674078 0.3006251 1.475072
+
+right hand position -> 0.3513081 0.2913572 1.545584
+
+frame 436:
+
+left hand position -> -0.2672736 0.3014357 1.474418
+
+right hand position -> 0.3518552 0.2913508 1.546116
+
+frame 437:
+
+left hand position -> -0.2674339 0.3011334 1.474793
+
+right hand position -> 0.3523832 0.2914933 1.547403
+
+frame 438:
+
+left hand position -> -0.2667686 0.30103 1.47357
+
+right hand position -> 0.3523267 0.2918419 1.548108
+
+frame 439:
+
+left hand position -> -0.2669575 0.3013563 1.474452
+
+right hand position -> 0.3522568 0.2920099 1.549466
+
+frame 440:
+
+left hand position -> -0.2671466 0.3010619 1.474927
+
+right hand position -> 0.352013 0.2926332 1.550093
+
+frame 441:
+
+left hand position -> -0.2671401 0.3010676 1.475243
+
+right hand position -> 0.3517713 0.2948092 1.551413
+
+frame 442:
+
+left hand position -> -0.2671822 0.3007279 1.475123
+
+right hand position -> 0.3515095 0.2955251 1.551226
+
+frame 443:
+
+left hand position -> -0.2669916 0.3013285 1.475009
+
+right hand position -> 0.3514919 0.2957068 1.550453
+
+frame 444:
+
+left hand position -> -0.2667786 0.3008667 1.475409
+
+right hand position -> 0.3509076 0.2981542 1.55108
+
+frame 445:
+
+left hand position -> -0.2674459 0.3004209 1.475703
+
+right hand position -> 0.3518816 0.2969911 1.551356
+
+frame 446:
+
+left hand position -> -0.2674528 0.3000083 1.47587
+
+right hand position -> 0.3525721 0.2958738 1.551329
+
+frame 447:
+
+left hand position -> -0.2667572 0.3004723 1.47544
+
+right hand position -> 0.3522939 0.2955595 1.549914
+
+frame 448:
+
+left hand position -> -0.2667614 0.3002644 1.475129
+
+right hand position -> 0.3531302 0.2944688 1.549538
+
+frame 449:
+
+left hand position -> -0.2666027 0.300438 1.47522
+
+right hand position -> 0.3526966 0.295122 1.549665
+
+frame 450:
+
+left hand position -> -0.266247 0.3006183 1.475028
+
+right hand position -> 0.353158 0.2939088 1.548606
+
+frame 451:
+
+left hand position -> -0.2650813 0.3005302 1.473834
+
+right hand position -> 0.3527731 0.2944659 1.548068
+
+frame 452:
+
+left hand position -> -0.2651038 0.3004874 1.473421
+
+right hand position -> 0.3531125 0.2935072 1.547783
+
+frame 453:
+
+left hand position -> -0.2648283 0.3006579 1.472794
+
+right hand position -> 0.3528102 0.293208 1.547394
+
+frame 454:
+
+left hand position -> -0.2645537 0.3005744 1.472368
+
+right hand position -> 0.3531622 0.2927223 1.547802
+
+frame 455:
+
+left hand position -> -0.2634594 0.3013172 1.471251
+
+right hand position -> 0.3526609 0.2906773 1.546526
+
+frame 456:
+
+left hand position -> -0.2627561 0.3006895 1.470241
+
+right hand position -> 0.3525882 0.289981 1.545775
+
+frame 457:
+
+left hand position -> -0.2623572 0.300859 1.469711
+
+right hand position -> 0.3521487 0.2894583 1.545574
+
+frame 458:
+
+left hand position -> -0.2620185 0.3013308 1.467864
+
+right hand position -> 0.3514588 0.2885123 1.544651
+
+frame 459:
+
+left hand position -> -0.2653541 0.2707588 1.458233
+
+right hand position -> 0.3511297 0.2889691 1.545151
+
+frame 460:
+
+left hand position -> -0.2642366 0.2710858 1.456932
+
+right hand position -> 0.3516055 0.2880072 1.543596
+
+frame 461:
+
+left hand position -> -0.2638339 0.2711858 1.456238
+
+right hand position -> 0.3517105 0.2881618 1.54394
+
+frame 462:
+
+left hand position -> -0.2626105 0.2712841 1.455752
+
+right hand position -> 0.3514917 0.2877364 1.542899
+
+frame 463:
+
+left hand position -> -0.2623822 0.2713645 1.455974
+
+right hand position -> 0.3514687 0.2872976 1.543309
+
+frame 464:
+
+left hand position -> -0.2626198 0.2712989 1.455139
+
+right hand position -> 0.3517151 0.2863785 1.54285
+
+frame 465:
+
+left hand position -> -0.2625349 0.2714486 1.455954
+
+right hand position -> 0.3521369 0.2865892 1.543633
+
+frame 466:
+
+left hand position -> -0.2626809 0.2707645 1.455809
+
+right hand position -> 0.3521202 0.2865941 1.543857
+
+frame 467:
+
+left hand position -> -0.2589289 0.2986976 1.463337
+
+right hand position -> 0.3520222 0.2865645 1.543726
+
+frame 468:
+
+left hand position -> -0.2587875 0.2993427 1.464502
+
+right hand position -> 0.3520214 0.2865129 1.544018
+
+frame 469:
+
+left hand position -> -0.2588055 0.2994902 1.46353
+
+right hand position -> 0.3521867 0.2865724 1.543693
+
+frame 470:
+
+left hand position -> -0.2589908 0.2991223 1.463601
+
+right hand position -> 0.352137 0.2866502 1.543542
+
+frame 471:
+
+left hand position -> -0.2600717 0.2990284 1.465268
+
+right hand position -> 0.3527334 0.2869823 1.545258
+
+frame 472:
+
+left hand position -> -0.2603189 0.2990518 1.464179
+
+right hand position -> 0.3526976 0.287144 1.544073
+
+frame 473:
+
+left hand position -> -0.2606076 0.299545 1.464567
+
+right hand position -> 0.3527106 0.2870301 1.543221
+
+frame 474:
+
+left hand position -> -0.2607417 0.2996147 1.463953
+
+right hand position -> 0.3522713 0.287057 1.542477
+
+frame 475:
+
+left hand position -> -0.2606107 0.2997186 1.463388
+
+right hand position -> 0.3519644 0.2874014 1.542238
+
+frame 476:
+
+left hand position -> -0.2609248 0.3001662 1.464139
+
+right hand position -> 0.3521581 0.2874466 1.542924
+
+frame 477:
+
+left hand position -> -0.2608509 0.3001592 1.463378
+
+right hand position -> 0.3521871 0.287304 1.54229
+
+frame 478:
+
+left hand position -> -0.2607303 0.3000033 1.46276
+
+right hand position -> 0.35208 0.2872186 1.541941
+
+frame 479:
+
+left hand position -> -0.260895 0.3020702 1.462582
+
+right hand position -> 0.3519294 0.2876616 1.541814
+
+frame 480:
+
+left hand position -> -0.2611636 0.3024908 1.462752
+
+right hand position -> 0.3520433 0.2872421 1.541553
+
+frame 481:
+
+left hand position -> -0.2607048 0.302738 1.462256
+
+right hand position -> 0.3523223 0.2876568 1.542037
+
+frame 482:
+
+left hand position -> -0.2609752 0.3030033 1.462904
+
+right hand position -> 0.3523181 0.2878945 1.542272
+
+frame 483:
+
+left hand position -> -0.2606814 0.305154 1.463019
+
+right hand position -> 0.3523732 0.2885346 1.542228
+
+frame 484:
+
+left hand position -> -0.2604983 0.3050745 1.463185
+
+right hand position -> 0.3525358 0.2887136 1.542064
+
+frame 485:
+
+left hand position -> -0.2604312 0.3054013 1.463024
+
+right hand position -> 0.3529115 0.2889885 1.542387
+
+frame 486:
+
+left hand position -> -0.2603438 0.3057294 1.461961
+
+right hand position -> 0.3526531 0.2889362 1.541175
+
+frame 487:
+
+left hand position -> -0.260585 0.3061459 1.463007
+
+right hand position -> 0.3528102 0.2907619 1.542242
+
+frame 488:
+
+left hand position -> -0.2601833 0.306085 1.462419
+
+right hand position -> 0.3527899 0.2906878 1.541651
+
+frame 489:
+
+left hand position -> -0.2598619 0.3058002 1.461448
+
+right hand position -> 0.3526782 0.2910363 1.540955
+
+frame 490:
+
+left hand position -> -0.2601383 0.3059185 1.462698
+
+right hand position -> 0.352883 0.2912466 1.541983
+
+frame 491:
+
+left hand position -> -0.2602745 0.3060822 1.462988
+
+right hand position -> 0.3532071 0.2912769 1.542207
+
+frame 492:
+
+left hand position -> -0.2604037 0.3058538 1.463973
+
+right hand position -> 0.3537528 0.2910589 1.543309
+
+frame 493:
+
+left hand position -> -0.2597486 0.3058187 1.463171
+
+right hand position -> 0.3537228 0.2911713 1.543018
+
+frame 494:
+
+left hand position -> -0.2589172 0.3072238 1.463303
+
+right hand position -> 0.3536848 0.2913157 1.54216
+
+frame 495:
+
+left hand position -> -0.2590501 0.3071497 1.463162
+
+right hand position -> 0.3543653 0.2912548 1.543303
+
+frame 496:
+
+left hand position -> -0.2583674 0.3090624 1.463643
+
+right hand position -> 0.3540987 0.2911664 1.543342
+
+frame 497:
+
+left hand position -> -0.2582471 0.3096016 1.46408
+
+right hand position -> 0.3543193 0.2912663 1.543784
+
+frame 498:
+
+left hand position -> -0.2578634 0.3093288 1.463827
+
+right hand position -> 0.3550253 0.2912885 1.545082
+
+frame 499:
+
+left hand position -> -0.2575952 0.3095741 1.463312
+
+right hand position -> 0.3544819 0.2901663 1.543808
+
+frame 500:
+
+left hand position -> -0.2577529 0.3096093 1.463635
+
+right hand position -> 0.3546493 0.2902142 1.54396
+
+frame 501:
+
+left hand position -> -0.2575693 0.3096573 1.463313
+
+right hand position -> 0.3546878 0.2907451 1.543872
+
+frame 502:
+
+left hand position -> -0.2575256 0.3093583 1.462831
+
+right hand position -> 0.3550315 0.2904874 1.543767
+
+frame 503:
+
+left hand position -> -0.2572667 0.3097488 1.463982
+
+right hand position -> 0.3550494 0.29112 1.544501
+
+frame 504:
+
+left hand position -> -0.2567492 0.3094253 1.463074
+
+right hand position -> 0.3556463 0.2904584 1.54423
+
+frame 505:
+
+left hand position -> -0.2569232 0.3090973 1.464237
+
+right hand position -> 0.3561037 0.2904868 1.544833
+
+frame 506:
+
+left hand position -> -0.2570195 0.3095832 1.464284
+
+right hand position -> 0.3561294 0.2908605 1.544997
+
+frame 507:
+
+left hand position -> -0.2568635 0.3093602 1.463969
+
+right hand position -> 0.3565903 0.2904322 1.544867
+
+frame 508:
+
+left hand position -> -0.2566678 0.3098461 1.464762
+
+right hand position -> 0.3564757 0.2912976 1.54523
+
+frame 509:
+
+left hand position -> -0.25662 0.3092133 1.4647
+
+right hand position -> 0.3570247 0.2912578 1.545163
+
+frame 510:
+
+left hand position -> -0.2564586 0.3097046 1.46435
+
+right hand position -> 0.3566653 0.2910446 1.544815
+
+frame 511:
+
+left hand position -> -0.2563235 0.3098254 1.464785
+
+right hand position -> 0.35707 0.2907986 1.544273
+
+frame 512:
+
+left hand position -> -0.2563854 0.3098131 1.464182
+
+right hand position -> 0.3570031 0.2915207 1.544629
+
+frame 513:
+
+left hand position -> -0.2561916 0.3098087 1.464568
+
+right hand position -> 0.3604749 0.2788961 1.540681
+
+frame 514:
+
+left hand position -> -0.2558676 0.3098076 1.464787
+
+right hand position -> 0.3573056 0.2903306 1.544672
+
+frame 515:
+
+left hand position -> -0.2558365 0.3099081 1.464046
+
+right hand position -> 0.3574558 0.2912547 1.544775
+
+frame 516:
+
+left hand position -> -0.2558923 0.3101706 1.464913
+
+right hand position -> 0.3581578 0.2907832 1.545291
+
+frame 517:
+
+left hand position -> -0.2550775 0.3095925 1.4643
+
+right hand position -> 0.3582634 0.2909779 1.545825
+
+frame 518:
+
+left hand position -> -0.2550536 0.309347 1.464558
+
+right hand position -> 0.3585866 0.290249 1.545618
+
+frame 519:
+
+left hand position -> -0.2552503 0.307543 1.463832
+
+right hand position -> 0.3583831 0.2907879 1.54621
+
+frame 520:
+
+left hand position -> -0.2550297 0.3074692 1.464022
+
+right hand position -> 0.3591199 0.2900023 1.54605
+
+frame 521:
+
+left hand position -> -0.2549204 0.3072941 1.464694
+
+right hand position -> 0.3589284 0.2905343 1.547081
+
+frame 522:
+
+left hand position -> -0.2545228 0.3072355 1.464445
+
+right hand position -> 0.3594309 0.2897994 1.54711
+
+frame 523:
+
+left hand position -> -0.2543379 0.3073167 1.465076
+
+right hand position -> 0.3591659 0.2904226 1.548476
+
+frame 524:
+
+left hand position -> -0.2541471 0.3068041 1.4648
+
+right hand position -> 0.3595196 0.2891116 1.548266
+
+frame 525:
+
+left hand position -> -0.2540895 0.306982 1.46491
+
+right hand position -> 0.359046 0.2898805 1.548378
+
+frame 526:
+
+left hand position -> -0.2538205 0.3071883 1.465479
+
+right hand position -> 0.3591551 0.2898726 1.548828
+
+frame 527:
+
+left hand position -> -0.2537178 0.3074444 1.466213
+
+right hand position -> 0.3594776 0.2901158 1.550325
+
+frame 528:
+
+left hand position -> -0.2538287 0.3069125 1.465037
+
+right hand position -> 0.3592381 0.28933 1.549421
+
+frame 529:
+
+left hand position -> -0.2541763 0.3067479 1.464661
+
+right hand position -> 0.3587767 0.2897766 1.549541
+
+frame 530:
+
+left hand position -> -0.2540927 0.3069165 1.464961
+
+right hand position -> 0.3589554 0.2897719 1.549887
+
+frame 531:
+
+left hand position -> -0.2540846 0.3063926 1.465317
+
+right hand position -> 0.3588423 0.2895519 1.550638
+
+frame 532:
+
+left hand position -> -0.2537152 0.3066323 1.465805
+
+right hand position -> 0.3593659 0.2892213 1.550874
+
+frame 533:
+
+left hand position -> -0.2538629 0.3066925 1.466021
+
+right hand position -> 0.3588637 0.2897821 1.550517
+
+frame 534:
+
+left hand position -> -0.2540371 0.3066552 1.464879
+
+right hand position -> 0.3586983 0.2896702 1.549787
+
+frame 535:
+
+left hand position -> -0.2538264 0.3065781 1.466122
+
+right hand position -> 0.3589838 0.2894422 1.550693
+
+frame 536:
+
+left hand position -> -0.2543406 0.3066513 1.466197
+
+right hand position -> 0.3589107 0.2895356 1.550534
+
+frame 537:
+
+left hand position -> -0.2545642 0.3064573 1.467239
+
+right hand position -> 0.3593403 0.2893804 1.551062
+
+frame 538:
+
+left hand position -> -0.2541806 0.3068112 1.466484
+
+right hand position -> 0.3588479 0.2898088 1.550235
+
+frame 539:
+
+left hand position -> -0.2538722 0.307001 1.46746
+
+right hand position -> 0.3594196 0.2892305 1.550601
+
+frame 540:
+
+left hand position -> -0.2536933 0.3068074 1.466999
+
+right hand position -> 0.3594901 0.2903955 1.551016
+
+frame 541:
+
+left hand position -> -0.2538474 0.3070129 1.46786
+
+right hand position -> 0.3600697 0.2896206 1.551204
+
+frame 542:
+
+left hand position -> -0.2534298 0.3066445 1.467141
+
+right hand position -> 0.3601824 0.2899895 1.551476
+
+frame 543:
+
+left hand position -> -0.2530037 0.3072609 1.467228
+
+right hand position -> 0.36028 0.2895169 1.550985
+
+frame 544:
+
+left hand position -> -0.2529052 0.3073969 1.46703
+
+right hand position -> 0.3605847 0.2893526 1.551492
+
+frame 545:
+
+left hand position -> -0.2526879 0.307286 1.467507
+
+right hand position -> 0.3611785 0.2897476 1.552576
+
+frame 546:
+
+left hand position -> -0.2523655 0.3070495 1.465967
+
+right hand position -> 0.36133 0.2891474 1.552543
+
+frame 547:
+
+left hand position -> -0.2524661 0.3073397 1.466251
+
+right hand position -> 0.3620334 0.2876819 1.552682
+
+frame 548:
+
+left hand position -> -0.2523359 0.3074357 1.466011
+
+right hand position -> 0.3614295 0.2887345 1.553174
+
+frame 549:
+
+left hand position -> -0.2520512 0.3072741 1.465538
+
+right hand position -> 0.3621772 0.2869347 1.552186
+
+frame 550:
+
+left hand position -> -0.2517368 0.3076987 1.465725
+
+right hand position -> 0.3624721 0.2892213 1.554412
+
+frame 551:
+
+left hand position -> -0.2518025 0.3076685 1.466094
+
+right hand position -> 0.362217 0.2883609 1.553828
+
+frame 552:
+
+left hand position -> -0.2516188 0.3076162 1.46584
+
+right hand position -> 0.3626577 0.2882285 1.553546
+
+frame 553:
+
+left hand position -> -0.2522042 0.3073478 1.465882
+
+right hand position -> 0.3620364 0.2892224 1.553938
+
+frame 554:
+
+left hand position -> -0.2514842 0.3077151 1.465323
+
+right hand position -> 0.3625236 0.2885948 1.552769
+
+frame 555:
+
+left hand position -> -0.2520162 0.3072466 1.466008
+
+right hand position -> 0.3629254 0.2880891 1.552663
+
+frame 556:
+
+left hand position -> -0.2519398 0.3076794 1.466052
+
+right hand position -> 0.362236 0.2889571 1.55305
+
+frame 557:
+
+left hand position -> -0.2519003 0.3071941 1.465008
+
+right hand position -> 0.3622608 0.2887558 1.55256
+
+frame 558:
+
+left hand position -> -0.2520081 0.3072549 1.466019
+
+right hand position -> 0.3625184 0.2884389 1.552084
+
+frame 559:
+
+left hand position -> -0.2521284 0.3076724 1.465227
+
+right hand position -> 0.3620386 0.2897299 1.552301
+
+frame 560:
+
+left hand position -> -0.2523912 0.3073556 1.465616
+
+right hand position -> 0.3624011 0.2889648 1.55158
+
+frame 561:
+
+left hand position -> -0.2522423 0.307351 1.465074
+
+right hand position -> 0.3626092 0.2887929 1.551654
+
+frame 562:
+
+left hand position -> -0.2521825 0.3073616 1.465634
+
+right hand position -> 0.362124 0.2899943 1.551906
+
+frame 563:
+
+left hand position -> -0.2520371 0.3071592 1.465058
+
+right hand position -> 0.3625321 0.2892244 1.552076
+
+frame 564:
+
+left hand position -> -0.2518955 0.3074977 1.464525
+
+right hand position -> 0.3617355 0.2905072 1.551482
+
+frame 565:
+
+left hand position -> -0.2523161 0.3075744 1.464247
+
+right hand position -> 0.3619682 0.2888548 1.550469
+
+frame 566:
+
+left hand position -> -0.2520197 0.3078798 1.464202
+
+right hand position -> 0.3612953 0.2903323 1.550896
+
+frame 567:
+
+left hand position -> -0.2524301 0.3076077 1.46537
+
+right hand position -> 0.362367 0.2891852 1.551246
+
+frame 568:
+
+left hand position -> -0.2520195 0.3076017 1.464207
+
+right hand position -> 0.3619865 0.290306 1.550963
+
+frame 569:
+
+left hand position -> -0.2522118 0.307427 1.465355
+
+right hand position -> 0.3623205 0.289397 1.551068
+
+frame 570:
+
+left hand position -> -0.2517605 0.3076903 1.464992
+
+right hand position -> 0.3619652 0.2905966 1.551521
+
+frame 571:
+
+left hand position -> -0.2518477 0.3077185 1.464907
+
+right hand position -> 0.365979 0.2760511 1.546412
+
+frame 572:
+
+left hand position -> -0.2519173 0.3080427 1.46501
+
+right hand position -> 0.3662935 0.2759517 1.546558
+
+frame 573:
+
+left hand position -> -0.2518243 0.3074635 1.464344
+
+right hand position -> 0.3662235 0.2757362 1.546484
+
+frame 574:
+
+left hand position -> -0.2518232 0.3075479 1.4649
+
+right hand position -> 0.3660553 0.2755822 1.547173
+
+frame 575:
+
+left hand position -> -0.2518139 0.3072018 1.465307
+
+right hand position -> 0.3624071 0.2892168 1.551074
+
+frame 576:
+
+left hand position -> -0.2516694 0.3071319 1.464951
+
+right hand position -> 0.3621939 0.2906339 1.552193
+
+frame 577:
+
+left hand position -> -0.2513687 0.3074571 1.464833
+
+right hand position -> 0.3623278 0.2892009 1.55145
+
+frame 578:
+
+left hand position -> -0.2520297 0.3071123 1.465479
+
+right hand position -> 0.3628014 0.2882091 1.551714
+
+frame 579:
+
+left hand position -> -0.2514297 0.3071816 1.46529
+
+right hand position -> 0.3620468 0.2899466 1.552438
+
+frame 580:
+
+left hand position -> -0.2518153 0.307081 1.465776
+
+right hand position -> 0.3625962 0.2885725 1.551658
+
+frame 581:
+
+left hand position -> -0.2518743 0.3070075 1.465892
+
+right hand position -> 0.3619899 0.2897122 1.552058
+
+frame 582:
+
+left hand position -> -0.2519693 0.3071126 1.466759
+
+right hand position -> 0.3623943 0.2886346 1.552911
+
+frame 583:
+
+left hand position -> -0.2521906 0.3069587 1.466578
+
+right hand position -> 0.36185 0.2896705 1.553028
+
+frame 584:
+
+left hand position -> -0.2518338 0.3067126 1.466889
+
+right hand position -> 0.361743 0.2893957 1.552767
+
+frame 585:
+
+left hand position -> -0.2524755 0.306771 1.466979
+
+right hand position -> 0.3619337 0.2887996 1.552656
+
+frame 586:
+
+left hand position -> -0.2524242 0.3065196 1.466507
+
+right hand position -> 0.3612528 0.2903438 1.552994
+
+frame 587:
+
+left hand position -> -0.2523829 0.3066472 1.46688
+
+right hand position -> 0.3615875 0.28881 1.552531
+
+frame 588:
+
+left hand position -> -0.2529108 0.3061768 1.467131
+
+right hand position -> 0.3612653 0.2901629 1.553203
+
+frame 589:
+
+left hand position -> -0.2529679 0.3058915 1.468028
+
+right hand position -> 0.3616038 0.2892297 1.553378
+
+frame 590:
+
+left hand position -> -0.2529474 0.3059074 1.466836
+
+right hand position -> 0.3612731 0.2888187 1.552457
+
+frame 591:
+
+left hand position -> -0.2533007 0.3056735 1.467172
+
+right hand position -> 0.3611224 0.2887124 1.55239
+
+frame 592:
+
+left hand position -> -0.2533227 0.3060033 1.467474
+
+right hand position -> 0.3611399 0.2898219 1.553283
+
+frame 593:
+
+left hand position -> -0.2535397 0.3056871 1.467595
+
+right hand position -> 0.3607921 0.2891272 1.552629
+
+frame 594:
+
+left hand position -> -0.2535715 0.3061492 1.468235
+
+right hand position -> 0.3616578 0.2882355 1.553327
+
+frame 595:
+
+left hand position -> -0.2535111 0.3063157 1.468158
+
+right hand position -> 0.3606313 0.2895947 1.553052
+
+frame 596:
+
+left hand position -> -0.2539814 0.3059156 1.468778
+
+right hand position -> 0.3609358 0.2889661 1.553162
+
+frame 597:
+
+left hand position -> -0.2540892 0.3057998 1.468224
+
+right hand position -> 0.3610159 0.2884008 1.552711
+
+frame 598:
+
+left hand position -> -0.2545819 0.3057506 1.469217
+
+right hand position -> 0.3606421 0.2895141 1.553782
+
+frame 599:
+
+left hand position -> -0.2539482 0.3060001 1.469432
+
+right hand position -> 0.3605136 0.2889409 1.552914
+
+frame 600:
+
+left hand position -> -0.2540289 0.3055434 1.46826
+
+right hand position -> 0.3605455 0.2885588 1.552119
+
+frame 601:
+
+left hand position -> -0.2545419 0.3061234 1.469535
+
+right hand position -> 0.360227 0.2897877 1.553429
+
+frame 602:
+
+left hand position -> -0.2546064 0.3058492 1.469497
+
+right hand position -> 0.3601294 0.2892474 1.552874
+
+frame 603:
+
+left hand position -> -0.2544986 0.3063197 1.469621
+
+right hand position -> 0.360391 0.2887627 1.552091
+
+frame 604:
+
+left hand position -> -0.254117 0.3068602 1.469413
+
+right hand position -> 0.3604505 0.2882377 1.551508
+
+frame 605:
+
+left hand position -> -0.254535 0.3058231 1.469354
+
+right hand position -> 0.3599046 0.290234 1.552086
+
+frame 606:
+
+left hand position -> -0.2544301 0.3064139 1.46948
+
+right hand position -> 0.3600814 0.2894095 1.551896
+
+frame 607:
+
+left hand position -> -0.2545034 0.3060359 1.469125
+
+right hand position -> 0.3604364 0.288639 1.551593
+
+frame 608:
+
+left hand position -> -0.2544619 0.3061929 1.469533
+
+right hand position -> 0.3609995 0.2885004 1.55176
+
+frame 609:
+
+left hand position -> -0.2540612 0.3068344 1.469452
+
+right hand position -> 0.3607111 0.2882279 1.551533
+
+frame 610:
+
+left hand position -> -0.2533182 0.3060908 1.468853
+
+right hand position -> 0.3604249 0.2899956 1.55262
+
+frame 611:
+
+left hand position -> -0.2539437 0.3058696 1.46927
+
+right hand position -> 0.3611691 0.2888722 1.553694
+
+frame 612:
+
+left hand position -> -0.2530119 0.3064862 1.469153
+
+right hand position -> 0.3612729 0.2883821 1.553149
+
+frame 613:
+
+left hand position -> -0.2526721 0.3064432 1.468822
+
+right hand position -> 0.3613821 0.2882672 1.552657
+
+frame 614:
+
+left hand position -> -0.2522595 0.3064671 1.468961
+
+right hand position -> 0.3614433 0.2875991 1.552606
+
+frame 615:
+
+left hand position -> -0.2519489 0.3073321 1.469544
+
+right hand position -> 0.3614142 0.2895341 1.553848
+
+frame 616:
+
+left hand position -> -0.2519061 0.3073032 1.469143
+
+right hand position -> 0.361678 0.2878915 1.553919
+
+frame 617:
+
+left hand position -> -0.2518377 0.3072604 1.469336
+
+right hand position -> 0.3623185 0.2875327 1.554783
+
+frame 618:
+
+left hand position -> -0.2514799 0.3049049 1.467792
+
+right hand position -> 0.3629232 0.2876206 1.555547
+
+frame 619:
+
+left hand position -> -0.251419 0.3046507 1.467484
+
+right hand position -> 0.3628783 0.2874441 1.555289
+
+frame 620:
+
+left hand position -> -0.2513446 0.3050952 1.467912
+
+right hand position -> 0.3625729 0.2880404 1.555334
+
+frame 621:
+
+left hand position -> -0.2512694 0.3051372 1.46756
+
+right hand position -> 0.3633186 0.2872223 1.55535
+
+frame 622:
+
+left hand position -> -0.2510486 0.3052106 1.467888
+
+right hand position -> 0.3629868 0.2869513 1.555417
+
+frame 623:
+
+left hand position -> -0.2508375 0.305444 1.46783
+
+right hand position -> 0.3631386 0.2868922 1.555409
+
+frame 624:
+
+left hand position -> -0.2507482 0.3047985 1.468114
+
+right hand position -> 0.3632663 0.2880898 1.556212
+
+frame 625:
+
+left hand position -> -0.2509156 0.3045984 1.4672
+
+right hand position -> 0.3634933 0.2869774 1.555239
+
+frame 626:
+
+left hand position -> -0.2511874 0.3046615 1.468117
+
+right hand position -> 0.3633451 0.2882438 1.55666
+
+frame 627:
+
+left hand position -> -0.2510151 0.3046095 1.467462
+
+right hand position -> 0.3633199 0.2875035 1.555197
+
+frame 628:
+
+left hand position -> -0.2513411 0.3046941 1.467714
+
+right hand position -> 0.363582 0.2870753 1.555437
+
+frame 629:
+
+left hand position -> -0.2513116 0.3047625 1.468052
+
+right hand position -> 0.363686 0.2869373 1.555591
+
+frame 630:
+
+left hand position -> -0.2512566 0.3045718 1.467344
+
+right hand position -> 0.3626575 0.2882792 1.555389
+
+frame 631:
+
+left hand position -> -0.2516267 0.3043959 1.46942
+
+right hand position -> 0.3635685 0.2864813 1.556335
+
+frame 632:
+
+left hand position -> -0.2515604 0.3042199 1.467964
+
+right hand position -> 0.3632884 0.2882396 1.556779
+
+frame 633:
+
+left hand position -> -0.2517902 0.3041582 1.469313
+
+right hand position -> 0.3636237 0.2870347 1.556546
+
+frame 634:
+
+left hand position -> -0.251885 0.3042218 1.469521
+
+right hand position -> 0.363429 0.2870387 1.556218
+
+frame 635:
+
+left hand position -> -0.2517788 0.3041564 1.469379
+
+right hand position -> 0.3634294 0.2870263 1.556297
+
+frame 636:
+
+left hand position -> -0.2520714 0.3042143 1.469811
+
+right hand position -> 0.3634388 0.287888 1.556743
+
+frame 637:
+
+left hand position -> -0.2520821 0.3038944 1.469595
+
+right hand position -> 0.3631579 0.2872016 1.556363
+
+frame 638:
+
+left hand position -> -0.2516493 0.3041004 1.469031
+
+right hand position -> 0.362621 0.2882293 1.556236
+
+frame 639:
+
+left hand position -> -0.2520745 0.3042884 1.46946
+
+right hand position -> 0.3633126 0.2867653 1.555963
+
+frame 640:
+
+left hand position -> -0.2521451 0.3039832 1.46993
+
+right hand position -> 0.3630255 0.2879139 1.557655
+
+frame 641:
+
+left hand position -> -0.2519639 0.3042015 1.469192
+
+right hand position -> 0.3636691 0.2867284 1.556842
+
+frame 642:
+
+left hand position -> -0.2518768 0.3043539 1.470396
+
+right hand position -> 0.3634636 0.2874733 1.558638
+
+frame 643:
+
+left hand position -> -0.2518677 0.3038156 1.46943
+
+right hand position -> 0.3637469 0.2875876 1.558325
+
+frame 644:
+
+left hand position -> -0.2516408 0.3034648 1.4695
+
+right hand position -> 0.3637169 0.2871762 1.558868
+
+frame 645:
+
+left hand position -> -0.2513832 0.3038075 1.468115
+
+right hand position -> 0.3632904 0.2872865 1.557736
+
+frame 646:
+
+left hand position -> -0.2519382 0.3037311 1.469901
+
+right hand position -> 0.3638958 0.2870069 1.5593
+
+frame 647:
+
+left hand position -> -0.2524558 0.3022307 1.468857
+
+right hand position -> 0.3635834 0.2872797 1.559065
+
+frame 648:
+
+left hand position -> -0.2522297 0.3020415 1.470042
+
+right hand position -> 0.3633522 0.2888644 1.559983
+
+frame 649:
+
+left hand position -> -0.2529704 0.301929 1.469664
+
+right hand position -> 0.3630449 0.288934 1.559052
+
+frame 650:
+
+left hand position -> -0.2528199 0.3020415 1.470179
+
+right hand position -> 0.3632648 0.2894437 1.559776
+
+frame 651:
+
+left hand position -> -0.2533074 0.3022234 1.46943
+
+right hand position -> 0.362903 0.2896773 1.558495
+
+frame 652:
+
+left hand position -> -0.2531178 0.302186 1.468926
+
+right hand position -> 0.3628974 0.2895253 1.55778
+
+frame 653:
+
+left hand position -> -0.2532923 0.3023773 1.470051
+
+right hand position -> 0.3629647 0.2896411 1.558381
+
+frame 654:
+
+left hand position -> -0.252908 0.3040761 1.470629
+
+right hand position -> 0.3628355 0.2898836 1.558874
+
+frame 655:
+
+left hand position -> -0.2530528 0.3047831 1.470212
+
+right hand position -> 0.3628964 0.2899092 1.558087
+
+frame 656:
+
+left hand position -> -0.253008 0.3045727 1.469989
+
+right hand position -> 0.3630198 0.2895619 1.557914
+
+frame 657:
+
+left hand position -> -0.2527006 0.3050811 1.469938
+
+right hand position -> 0.3629653 0.289689 1.557718
+
+frame 658:
+
+left hand position -> -0.2530805 0.3049215 1.470005
+
+right hand position -> 0.362514 0.2903487 1.55834
+
+frame 659:
+
+left hand position -> -0.2528001 0.3047535 1.469318
+
+right hand position -> 0.3624358 0.2901751 1.557879
+
+frame 660:
+
+left hand position -> -0.2527159 0.3054666 1.469247
+
+right hand position -> 0.3625312 0.2902057 1.557914
+
+frame 661:
+
+left hand position -> -0.2526361 0.3055691 1.469731
+
+right hand position -> 0.362487 0.2905969 1.558458
+
+frame 662:
+
+left hand position -> -0.2523951 0.3057716 1.469297
+
+right hand position -> 0.3634284 0.29016 1.557792
+
+frame 663:
+
+left hand position -> -0.2524984 0.305535 1.469519
+
+right hand position -> 0.3632312 0.2912096 1.558829
+
+frame 664:
+
+left hand position -> -0.2522127 0.3058031 1.469101
+
+right hand position -> 0.3633756 0.2909883 1.558844
+
+frame 665:
+
+left hand position -> -0.2522661 0.3061202 1.468899
+
+right hand position -> 0.3631026 0.2909933 1.557679
+
+frame 666:
+
+left hand position -> -0.2520947 0.306295 1.469065
+
+right hand position -> 0.3636105 0.290943 1.557468
+
+frame 667:
+
+left hand position -> -0.2513573 0.3059541 1.46828
+
+right hand position -> 0.3635372 0.2910624 1.556919
+
+frame 668:
+
+left hand position -> -0.2515436 0.3058007 1.468497
+
+right hand position -> 0.3639362 0.2910579 1.55768
+
+frame 669:
+
+left hand position -> -0.2514937 0.3060899 1.468369
+
+right hand position -> 0.3634087 0.2918797 1.557525
+
+frame 670:
+
+left hand position -> -0.2517305 0.3056619 1.468459
+
+right hand position -> 0.3638965 0.29108 1.557498
+
+frame 671:
+
+left hand position -> -0.25176 0.3065395 1.46855
+
+right hand position -> 0.3637236 0.2913402 1.55766
+
+frame 672:
+
+left hand position -> -0.2517737 0.3058201 1.468133
+
+right hand position -> 0.3637773 0.2919529 1.557514
+
+frame 673:
+
+left hand position -> -0.2518578 0.3059888 1.467945
+
+right hand position -> 0.3638782 0.2915272 1.556821
+
+frame 674:
+
+left hand position -> -0.2516957 0.3060076 1.467916
+
+right hand position -> 0.3638673 0.291193 1.557134
+
+frame 675:
+
+left hand position -> -0.2515602 0.306095 1.468722
+
+right hand position -> 0.3640149 0.2912497 1.557215
+
+frame 676:
+
+left hand position -> -0.2516825 0.3059057 1.468396
+
+right hand position -> 0.3639183 0.2917669 1.556875
+
+frame 677:
+
+left hand position -> -0.2516229 0.3055575 1.46775
+
+right hand position -> 0.3638682 0.2915005 1.556583
+
+frame 678:
+
+left hand position -> -0.251376 0.3052095 1.467532
+
+right hand position -> 0.3639885 0.291381 1.55628
+
+frame 679:
+
+left hand position -> -0.2511683 0.3055356 1.468035
+
+right hand position -> 0.3642153 0.291448 1.556575
+
+frame 680:
+
+left hand position -> -0.2517431 0.3057025 1.467796
+
+right hand position -> 0.3641416 0.2913384 1.556663
+
+frame 681:
+
+left hand position -> -0.2510337 0.3054227 1.4678
+
+right hand position -> 0.3643194 0.2912156 1.556582
+
+frame 682:
+
+left hand position -> -0.2515545 0.3058275 1.468527
+
+right hand position -> 0.3641039 0.2909562 1.55682
+
+frame 683:
+
+left hand position -> -0.2513933 0.3055292 1.468367
+
+right hand position -> 0.3648703 0.2892022 1.556068
+
+frame 684:
+
+left hand position -> -0.2513113 0.3055557 1.469233
+
+right hand position -> 0.3644063 0.2916673 1.557665
+
+frame 685:
+
+left hand position -> -0.2511356 0.3052334 1.468509
+
+right hand position -> 0.3645493 0.2912478 1.556497
+
+frame 686:
+
+left hand position -> -0.2511207 0.305317 1.468349
+
+right hand position -> 0.3643226 0.2911914 1.556557
+
+frame 687:
+
+left hand position -> -0.2509904 0.3057063 1.468699
+
+right hand position -> 0.3644808 0.2915254 1.557488
+
+frame 688:
+
+left hand position -> -0.2513162 0.3052369 1.469061
+
+right hand position -> 0.365288 0.2894423 1.556432
+
+frame 689:
+
+left hand position -> -0.2512232 0.3051806 1.468073
+
+right hand position -> 0.3647349 0.2894476 1.555673
+
+frame 690:
+
+left hand position -> -0.2507648 0.3055586 1.468288
+
+right hand position -> 0.3647518 0.2893215 1.555461
+
+frame 691:
+
+left hand position -> -0.2514881 0.3050984 1.468241
+
+right hand position -> 0.3650306 0.2893522 1.555573
+
+frame 692:
+
+left hand position -> -0.2510256 0.3053709 1.468495
+
+right hand position -> 0.364809 0.289173 1.55554
+
+frame 693:
+
+left hand position -> -0.2508146 0.3051968 1.468359
+
+right hand position -> 0.3650047 0.2893197 1.555808
+
+frame 694:
+
+left hand position -> -0.2512203 0.3054738 1.468251
+
+right hand position -> 0.3650087 0.289239 1.555543
+
+frame 695:
+
+left hand position -> -0.2515313 0.3053426 1.46859
+
+right hand position -> 0.3641533 0.2913393 1.555851
+
+frame 696:
+
+left hand position -> -0.2515446 0.305627 1.469083
+
+right hand position -> 0.3650219 0.2893375 1.555904
+
+frame 697:
+
+left hand position -> -0.2513468 0.3056643 1.468632
+
+right hand position -> 0.3647309 0.2894152 1.555514
+
+frame 698:
+
+left hand position -> -0.2518507 0.3050349 1.469224
+
+right hand position -> 0.365093 0.2891401 1.555488
+
+frame 699:
+
+left hand position -> -0.2515277 0.3057332 1.468984
+
+right hand position -> 0.3647581 0.2892816 1.555316
+
+frame 700:
+
+left hand position -> -0.2518279 0.3053866 1.469293
+
+right hand position -> 0.3648246 0.2889911 1.555176
+
+frame 701:
+
+left hand position -> -0.2517159 0.3051485 1.469134
+
+right hand position -> 0.3644974 0.2895712 1.555802
+
+frame 702:
+
+left hand position -> -0.2518396 0.3045637 1.469342
+
+right hand position -> 0.364829 0.2890883 1.555838
+
+frame 703:
+
+left hand position -> -0.2523122 0.3053007 1.469418
+
+right hand position -> 0.3643785 0.2912248 1.556366
+
+frame 704:
+
+left hand position -> -0.251808 0.3050605 1.469639
+
+right hand position -> 0.3649795 0.2893396 1.557063
+
+frame 705:
+
+left hand position -> -0.2517914 0.3050279 1.469562
+
+right hand position -> 0.3650158 0.2892291 1.55629
+
+frame 706:
+
+left hand position -> -0.2514088 0.3051062 1.468688
+
+right hand position -> 0.3647996 0.2889818 1.555585
+
+frame 707:
+
+left hand position -> -0.2513909 0.3046666 1.468696
+
+right hand position -> 0.3646884 0.2891976 1.555619
+
+frame 708:
+
+left hand position -> -0.2513706 0.3046151 1.468185
+
+right hand position -> 0.3646807 0.2885703 1.554561
+
+frame 709:
+
+left hand position -> -0.2509561 0.3046452 1.468139
+
+right hand position -> 0.3643076 0.2891221 1.554812
+
+frame 710:
+
+left hand position -> -0.2512409 0.3046228 1.468434
+
+right hand position -> 0.3640698 0.290817 1.555717
+
+frame 711:
+
+left hand position -> -0.2513115 0.3046732 1.468766
+
+right hand position -> 0.3649254 0.2889808 1.555434
+
+frame 712:
+
+left hand position -> -0.2511878 0.3049616 1.468978
+
+right hand position -> 0.3648314 0.2890189 1.555857
+
+frame 713:
+
+left hand position -> -0.2508054 0.3045011 1.468726
+
+right hand position -> 0.364929 0.2888603 1.555829
+
+frame 714:
+
+left hand position -> -0.2506865 0.3045073 1.468305
+
+right hand position -> 0.3646787 0.288715 1.555067
+
+frame 715:
+
+left hand position -> -0.2508176 0.303938 1.46824
+
+right hand position -> 0.3647736 0.2887113 1.555278
+
+frame 716:
+
+left hand position -> -0.2508003 0.3049463 1.469206
+
+right hand position -> 0.3651171 0.2882751 1.555969
+
+frame 717:
+
+left hand position -> -0.2507038 0.3046699 1.468014
+
+right hand position -> 0.3643351 0.2904468 1.556286
+
+frame 718:
+
+left hand position -> -0.2507917 0.3046384 1.468191
+
+right hand position -> 0.3646463 0.2898182 1.556594
+
+frame 719:
+
+left hand position -> -0.2509862 0.3046203 1.468668
+
+right hand position -> 0.3649509 0.2892321 1.556364
+
+frame 720:
+
+left hand position -> -0.2509245 0.3042611 1.468503
+
+right hand position -> 0.3653007 0.2889667 1.556251
+
+frame 721:
+
+left hand position -> -0.2510042 0.3045552 1.468856
+
+right hand position -> 0.3653102 0.2884152 1.555944
+
+frame 722:
+
+left hand position -> -0.2514687 0.304106 1.468991
+
+right hand position -> 0.3655164 0.2887698 1.55703
+
+frame 723:
+
+left hand position -> -0.2508923 0.3038912 1.468821
+
+right hand position -> 0.3654513 0.2885901 1.556249
+
+frame 724:
+
+left hand position -> -0.2508561 0.3039959 1.468369
+
+right hand position -> 0.3655268 0.2883078 1.555814
+
+frame 725:
+
+left hand position -> -0.2509212 0.3044393 1.469153
+
+right hand position -> 0.3656176 0.2882664 1.556064
+
+frame 726:
+
+left hand position -> -0.2511737 0.3039607 1.469298
+
+right hand position -> 0.3658114 0.2884645 1.55655
+
+frame 727:
+
+left hand position -> -0.2508875 0.3042985 1.469054
+
+right hand position -> 0.3657745 0.2883798 1.556385
+
+frame 728:
+
+left hand position -> -0.2511588 0.3023835 1.468224
+
+right hand position -> 0.3657556 0.2884046 1.55605
+
+frame 729:
+
+left hand position -> -0.2510208 0.3024856 1.468054
+
+right hand position -> 0.365299 0.2907744 1.557191
+
+frame 730:
+
+left hand position -> -0.2505558 0.3025372 1.468126
+
+right hand position -> 0.3659327 0.2888006 1.556754
+
+frame 731:
+
+left hand position -> -0.2505262 0.3025987 1.468187
+
+right hand position -> 0.366084 0.288907 1.557143
+
+frame 732:
+
+left hand position -> -0.2503774 0.3026901 1.467425
+
+right hand position -> 0.3656885 0.2888255 1.556044
+
+frame 733:
+
+left hand position -> -0.2501229 0.3021471 1.466979
+
+right hand position -> 0.3661228 0.2886647 1.556273
+
+frame 734:
+
+left hand position -> -0.2501879 0.302542 1.467139
+
+right hand position -> 0.3661544 0.2887432 1.556188
+
+frame 735:
+
+left hand position -> -0.2502661 0.3020134 1.466143
+
+right hand position -> 0.3661049 0.2885744 1.555377
+
+frame 736:
+
+left hand position -> -0.2504053 0.3025192 1.46816
+
+right hand position -> 0.3666237 0.2888677 1.557471
+
+frame 737:
+
+left hand position -> -0.2504406 0.3025081 1.46844
+
+right hand position -> 0.3668473 0.288831 1.557188
+
+frame 738:
+
+left hand position -> -0.2501794 0.3025675 1.467342
+
+right hand position -> 0.3671066 0.2882581 1.555963
+
+frame 739:
+
+left hand position -> -0.2501744 0.3027052 1.4673
+
+right hand position -> 0.3668666 0.2882324 1.555288
+
+frame 740:
+
+left hand position -> -0.2501351 0.3024956 1.467303
+
+right hand position -> 0.3661042 0.2908075 1.555917
+
+frame 741:
+
+left hand position -> -0.2502855 0.30288 1.468338
+
+right hand position -> 0.367156 0.2892738 1.555583
+
+frame 742:
+
+left hand position -> -0.2501777 0.3030178 1.468972
+
+right hand position -> 0.3675403 0.2885644 1.555795
+
+frame 743:
+
+left hand position -> -0.2501563 0.30241 1.468059
+
+right hand position -> 0.3709835 0.273547 1.550392
+
+frame 744:
+
+left hand position -> -0.2504877 0.3017455 1.467097
+
+right hand position -> 0.363667 0.2980947 1.557195
+
+frame 745:
+
+left hand position -> -0.2507861 0.3018576 1.468493
+
+right hand position -> 0.3642204 0.2977563 1.557952
+
+frame 746:
+
+left hand position -> -0.2508034 0.3016889 1.46831
+
+right hand position -> 0.3638394 0.2982129 1.558523
+
+frame 747:
+
+left hand position -> -0.2507268 0.3016936 1.468451
+
+right hand position -> 0.3667036 0.2883821 1.55523
+
+frame 748:
+
+left hand position -> -0.250875 0.3014018 1.467348
+
+right hand position -> 0.3634342 0.2977617 1.557795
+
+frame 749:
+
+left hand position -> -0.250931 0.3012988 1.467756
+
+right hand position -> 0.363359 0.2978505 1.55831
+
+frame 750:
+
+left hand position -> -0.2512966 0.2989645 1.467344
+
+right hand position -> 0.3634526 0.2982498 1.559225
+
+frame 751:
+
+left hand position -> -0.2512597 0.2989748 1.467152
+
+right hand position -> 0.3657379 0.28845 1.555186
+
+frame 752:
+
+left hand position -> -0.2513989 0.2988016 1.467865
+
+right hand position -> 0.3656375 0.2905123 1.557471
+
+frame 753:
+
+left hand position -> -0.2514786 0.2987463 1.46743
+
+right hand position -> 0.3654044 0.2901931 1.556806
+
+frame 754:
+
+left hand position -> -0.2513679 0.2986862 1.467006
+
+right hand position -> 0.3654794 0.2893246 1.555986
+
+frame 755:
+
+left hand position -> -0.2516112 0.2990003 1.467902
+
+right hand position -> 0.3703412 0.2724776 1.549994
+
+frame 756:
+
+left hand position -> -0.2517302 0.2988669 1.468632
+
+right hand position -> 0.3661568 0.2883766 1.555667
+
+frame 757:
+
+left hand position -> -0.2520026 0.2995563 1.468658
+
+right hand position -> 0.3659123 0.288453 1.555653
+
+frame 758:
+
+left hand position -> -0.2527057 0.299515 1.469507
+
+right hand position -> 0.3658733 0.2883855 1.555583
+
+frame 759:
+
+left hand position -> -0.2517317 0.2998067 1.468969
+
+right hand position -> 0.3661097 0.2884275 1.556529
+
+frame 760:
+
+left hand position -> -0.2518681 0.2993709 1.468817
+
+right hand position -> 0.3660932 0.2884619 1.556613
+
+frame 761:
+
+left hand position -> -0.2516947 0.2995299 1.46845
+
+right hand position -> 0.3664647 0.2883427 1.556489
+
+frame 762:
+
+left hand position -> -0.252391 0.2996744 1.468793
+
+right hand position -> 0.3659514 0.2880925 1.55665
+
+frame 763:
+
+left hand position -> -0.2523821 0.2996611 1.468423
+
+right hand position -> 0.36506 0.2904425 1.557705
+
+frame 764:
+
+left hand position -> -0.2522772 0.2996394 1.4685
+
+right hand position -> 0.365858 0.2882796 1.557404
+
+frame 765:
+
+left hand position -> -0.2522946 0.2998523 1.468928
+
+right hand position -> 0.3661043 0.2887976 1.557733
+
+frame 766:
+
+left hand position -> -0.2522776 0.2994139 1.469463
+
+right hand position -> 0.3660486 0.2887211 1.558006
+
+frame 767:
+
+left hand position -> -0.2524418 0.2994689 1.468846
+
+right hand position -> 0.3656464 0.2891425 1.557053
+
+frame 768:
+
+left hand position -> -0.2524962 0.2998962 1.469477
+
+right hand position -> 0.3656406 0.2893008 1.557282
+
+frame 769:
+
+left hand position -> -0.2522196 0.3000155 1.469067
+
+right hand position -> 0.3657933 0.2894772 1.556399
+
+frame 770:
+
+left hand position -> -0.2525409 0.2998256 1.469505
+
+right hand position -> 0.365292 0.2919237 1.557547
+
+frame 771:
+
+left hand position -> -0.2525083 0.2997785 1.469152
+
+right hand position -> 0.3655843 0.2906137 1.556518
+
+frame 772:
+
+left hand position -> -0.2523634 0.3001094 1.469377
+
+right hand position -> 0.3657955 0.2904806 1.556555
+
+frame 773:
+
+left hand positframe 1:
+
+left hand position -> -0.09820198 -0.2794211 1.088151
+
+right hand position -> 0.3856773 -0.2978986 1.088269
+
+frame 2:
+
+left hand position -> -0.09983951 -0.2829058 1.089236
+
+right hand position -> 0.3655315 -0.2981081 1.081627
+
+frame 3:
+
+left hand position -> -0.1034855 -0.2764356 1.104693
+
+right hand position -> 0.3371355 -0.2700466 1.100906
+
+frame 4:
+
+left hand position -> -0.1030706 -0.2730095 1.119301
+
+right hand position -> 0.3090443 -0.257004 1.10531
+
+frame 5:
+
+left hand position -> -0.1092594 -0.2658296 1.136446
+
+right hand position -> 0.2796883 -0.2538742 1.107581
+
+frame 6:
+
+left hand position -> -0.1093157 -0.2711272 1.150998
+
+right hand position -> 0.2679677 -0.2252235 1.12665
+
+frame 7:
+
+left hand position -> -0.1116348 -0.2660981 1.168064
+
+right hand position -> 0.2583425 -0.2276049 1.131441
+
+frame 8:
+
+left hand position -> -0.1172145 -0.2249498 1.190105
+
+right hand position -> 0.2468864 -0.2256445 1.13949
+
+frame 9:
+
+left hand position -> -0.1203837 -0.2157117 1.199335
+
+right hand position -> 0.2211446 -0.2705484 1.104576
+
+frame 10:
+
+left hand position -> -0.1190294 -0.2117767 1.201995
+
+right hand position -> 0.2167999 -0.2047107 1.15782
+
+frame 11:
+
+left hand position -> -0.1197302 -0.2081268 1.204676
+
+right hand position -> 0.2123135 -0.2111969 1.16057
+
+frame 12:
+
+left hand position -> -0.1238884 -0.1964959 1.210463
+
+right hand position -> 0.2095244 -0.2044124 1.174051
+
+frame 13:
+
+left hand position -> -0.1273478 -0.1881817 1.213612
+
+right hand position -> 0.2013262 -0.2242336 1.171458
+
+frame 14:
+
+left hand position -> -0.1288436 -0.1885878 1.214348
+
+right hand position -> 0.1997716 -0.213144 1.18836
+
+frame 15:
+
+left hand position -> -0.1258902 -0.198974 1.211919
+
+right hand position -> 0.1972606 -0.2114276 1.194368
+
+frame 16:
+
+left hand position -> -0.1255697 -0.19957 1.214033
+
+right hand position -> 0.1949044 -0.2132418 1.199229
+
+frame 17:
+
+left hand position -> -0.1257267 -0.1897619 1.217062
+
+right hand position -> 0.191025 -0.2163363 1.202017
+
+frame 18:
+
+left hand position -> -0.122899 -0.1811047 1.218026
+
+right hand position -> 0.189574 -0.2124208 1.206511
+
+frame 19:
+
+left hand position -> -0.128442 -0.1586214 1.227296
+
+right hand position -> 0.1852296 -0.2128443 1.207957
+
+frame 20:
+
+left hand position -> -0.1292166 -0.1493945 1.231446
+
+right hand position -> 0.1851062 -0.2152412 1.210023
+
+frame 21:
+
+left hand position -> -0.1288317 -0.1433097 1.237163
+
+right hand position -> 0.1883058 -0.2119206 1.219312
+
+frame 22:
+
+left hand position -> -0.1272954 -0.1390159 1.241426
+
+right hand position -> 0.1867938 -0.2144114 1.221649
+
+frame 23:
+
+left hand position -> -0.130394 -0.1307085 1.247993
+
+right hand position -> 0.2357854 -0.1377613 1.263331
+
+frame 24:
+
+left hand position -> -0.09626275 -0.1217457 1.238543
+
+right hand position -> 0.201022 -0.2015642 1.24685
+
+frame 25:
+
+left hand position -> -0.1305662 -0.1134085 1.255917
+
+right hand position -> 0.2004756 -0.2076302 1.250871
+
+frame 26:
+
+left hand position -> -0.1268943 -0.1074403 1.259061
+
+right hand position -> 0.2017338 -0.2073053 1.256032
+
+frame 27:
+
+left hand position -> -0.1130659 -0.1273434 1.26457
+
+right hand position -> 0.2033017 -0.207491 1.261456
+
+frame 28:
+
+left hand position -> -0.1107617 -0.1248497 1.2694
+
+right hand position -> 0.2097223 -0.2063491 1.268822
+
+frame 29:
+
+left hand position -> -0.09600013 -0.1356741 1.264758
+
+right hand position -> 0.2579254 -0.1463339 1.294814
+
+frame 30:
+
+left hand position -> -0.07546094 -0.1904703 1.243893
+
+right hand position -> 0.2575205 -0.1465408 1.295335
+
+frame 31:
+
+left hand position -> -0.07459766 -0.1879077 1.242023
+
+right hand position -> 0.2554265 -0.1463013 1.294743
+
+frame 32:
+
+left hand position -> -0.07574102 -0.1806063 1.242734
+
+right hand position -> 0.2548011 -0.1448566 1.29371
+
+frame 33:
+
+left hand position -> -0.1135964 -0.10755 1.259986
+
+right hand position -> 0.2549609 -0.1435175 1.292095
+
+frame 34:
+
+left hand position -> -0.1342146 -0.09885694 1.269833
+
+right hand position -> 0.2567673 -0.1406106 1.289621
+
+frame 35:
+
+left hand position -> -0.1296591 -0.09908552 1.261663
+
+right hand position -> 0.2596935 -0.1385112 1.286067
+
+frame 36:
+
+left hand position -> -0.1284029 -0.09963558 1.255813
+
+right hand position -> 0.2162926 -0.1853617 1.255237
+
+frame 37:
+
+left hand position -> -0.1266567 -0.09998025 1.247073
+
+right hand position -> 0.2159536 -0.1867705 1.249062
+
+frame 38:
+
+left hand position -> -0.1060488 -0.1193976 1.226535
+
+right hand position -> 0.2263903 -0.1400149 1.241337
+
+frame 39:
+
+left hand position -> -0.1430821 -0.1005943 1.241799
+
+right hand position -> 0.2460085 -0.1745436 1.246608
+
+frame 40:
+
+left hand position -> -0.1210212 -0.1448567 1.205588
+
+right hand position -> 0.2171231 -0.1969055 1.219591
+
+frame 41:
+
+left hand position -> -0.1177026 -0.1958062 1.184699
+
+right hand position -> 0.2317016 -0.201518 1.212927
+
+frame 42:
+
+left hand position -> -0.125434 -0.230319 1.171885
+
+right hand position -> 0.2420953 -0.2034029 1.213911
+
+frame 43:
+
+left hand position -> -0.1572519 -0.2308186 1.176789
+
+right hand position -> 0.2458776 -0.2484517 1.210781
+
+frame 44:
+
+left hand position -> -0.1553759 -0.2706138 1.176752
+
+right hand position -> 0.2489859 -0.2696911 1.22719
+
+frame 45:
+
+left hand position -> -0.1486173 -0.2881649 1.183794
+
+right hand position -> 0.2370468 -0.2623402 1.246788
+
+frame 46:
+
+left hand position -> -0.1438641 -0.3021208 1.188217
+
+right hand position -> 0.2427334 -0.2704857 1.258611
+
+frame 47:
+
+left hand position -> -0.1384384 -0.3138315 1.184626
+
+right hand position -> 0.2384608 -0.2744471 1.262181
+
+frame 48:
+
+left hand position -> -0.1479007 -0.3031853 1.195931
+
+right hand position -> 0.2356575 -0.2744833 1.266551
+
+frame 49:
+
+left hand position -> -0.1560715 -0.2394915 1.226917
+
+right hand position -> 0.2223734 -0.2599414 1.266265
+
+frame 50:
+
+left hand position -> -0.1561336 -0.2432402 1.226772
+
+right hand position -> 0.2360422 -0.2692647 1.287236
+
+frame 51:
+
+left hand position -> -0.1622917 -0.2386236 1.23601
+
+right hand position -> 0.2292889 -0.2599499 1.294278
+
+frame 52:
+
+left hand position -> -0.1891242 -0.24564 1.271272
+
+right hand position -> 0.2183151 -0.2835636 1.28788
+
+frame 53:
+
+left hand position -> -0.1899341 -0.2355736 1.289231
+
+right hand position -> 0.2142005 -0.2817157 1.293467
+
+frame 54:
+
+left hand position -> -0.1392822 -0.1374239 1.232525
+
+right hand position -> 0.2055751 -0.266005 1.277785
+
+frame 55:
+
+left hand position -> -0.1340348 -0.1370474 1.223662
+
+right hand position -> 0.1985617 -0.2865962 1.252967
+
+frame 56:
+
+left hand position -> -0.1317015 -0.1292518 1.219365
+
+right hand position -> 0.1981143 -0.2718716 1.258986
+
+frame 57:
+
+left hand position -> -0.06820389 -0.05385972 1.207499
+
+right hand position -> 0.197741 -0.2476059 1.275318
+
+frame 58:
+
+left hand position -> -0.06446272 -0.06590687 1.204546
+
+right hand position -> 0.2037565 -0.2689975 1.33031
+
+frame 59:
+
+left hand position -> -0.2072653 -0.2693143 1.367237
+
+right hand position -> 0.2207097 -0.2874483 1.399872
+
+frame 60:
+
+left hand position -> -0.2264952 -0.321462 1.32887
+
+right hand position -> 0.2271347 -0.3012103 1.401166
+
+frame 61:
+
+left hand position -> -0.2311615 -0.2900405 1.306418
+
+right hand position -> 0.2353805 -0.3243585 1.369315
+
+frame 62:
+
+left hand position -> -0.2328292 -0.2853668 1.269878
+
+right hand position -> 0.2350331 -0.3256019 1.340505
+
+frame 63:
+
+left hand position -> -0.2196591 -0.2791876 1.236675
+
+right hand position -> 0.2299282 -0.3317228 1.309672
+
+frame 64:
+
+left hand position -> -0.2099211 -0.2650343 1.214758
+
+right hand position -> 0.2243838 -0.3274516 1.27976
+
+frame 65:
+
+left hand position -> -0.2072028 -0.2467196 1.198108
+
+right hand position -> 0.218597 -0.3138007 1.253753
+
+frame 66:
+
+left hand position -> -0.1956701 -0.2403069 1.18842
+
+right hand position -> 0.2209107 -0.2955045 1.234155
+
+frame 67:
+
+left hand position -> -0.2033879 -0.2348818 1.175372
+
+right hand position -> 0.230013 -0.2789236 1.213504
+
+frame 68:
+
+left hand position -> -0.2100755 -0.2354263 1.157342
+
+right hand position -> 0.2405998 -0.2685242 1.192485
+
+frame 69:
+
+left hand position -> -0.2232801 -0.2296334 1.139239
+
+right hand position -> 0.2479485 -0.2632934 1.173619
+
+frame 70:
+
+left hand position -> -0.2393923 -0.2276526 1.119807
+
+right hand position -> 0.2603908 -0.2524426 1.155347
+
+frame 71:
+
+left hand position -> -0.2504706 -0.2279987 1.110387
+
+right hand position -> 0.2687254 -0.2418536 1.144592
+
+frame 72:
+
+left hand position -> -0.260487 -0.2280555 1.105954
+
+right hand position -> 0.2769197 -0.2339016 1.139765
+
+frame 73:
+
+left hand position -> -0.2679373 -0.2312203 1.104509
+
+right hand position -> 0.2843266 -0.2283554 1.136379
+
+frame 74:
+
+left hand position -> -0.2738449 -0.2348325 1.104844
+
+right hand position -> 0.2903312 -0.2244205 1.133501
+
+frame 75:
+
+left hand position -> -0.2790197 -0.2385353 1.107095
+
+right hand position -> 0.2942084 -0.2243913 1.136595
+
+frame 76:
+
+left hand position -> -0.2795625 -0.2437778 1.112654
+
+right hand position -> 0.2947971 -0.2278152 1.140174
+
+frame 77:
+
+left hand position -> -0.2794657 -0.2507643 1.119547
+
+right hand position -> 0.2931596 -0.2333149 1.147854
+
+frame 78:
+
+left hand position -> -0.2769101 -0.2563675 1.128739
+
+right hand position -> 0.2887861 -0.2416765 1.158795
+
+frame 79:
+
+left hand position -> -0.2736639 -0.2639945 1.138108
+
+right hand position -> 0.2843421 -0.2539832 1.172243
+
+frame 80:
+
+left hand position -> -0.2713833 -0.2694227 1.147973
+
+right hand position -> 0.2794017 -0.2658922 1.187936
+
+frame 81:
+
+left hand position -> -0.268252 -0.2716829 1.158049
+
+right hand position -> 0.2747836 -0.2787023 1.205193
+
+frame 82:
+
+left hand position -> -0.2674987 -0.2782065 1.166361
+
+right hand position -> 0.26945 -0.2885957 1.222809
+
+frame 83:
+
+left hand position -> -0.2672646 -0.2845792 1.176371
+
+right hand position -> 0.2654535 -0.2968201 1.243692
+
+frame 84:
+
+left hand position -> -0.2687108 -0.2872554 1.184082
+
+right hand position -> 0.2611665 -0.3059494 1.259642
+
+frame 85:
+
+left hand position -> -0.2712642 -0.2911848 1.191367
+
+right hand position -> 0.2576141 -0.3148308 1.274052
+
+frame 86:
+
+left hand position -> -0.273365 -0.2957397 1.194955
+
+right hand position -> 0.2551358 -0.3205967 1.285978
+
+frame 87:
+
+left hand position -> -0.2762569 -0.2978222 1.199141
+
+right hand position -> 0.2538461 -0.3250898 1.294071
+
+frame 88:
+
+left hand position -> -0.2778156 -0.297321 1.201005
+
+right hand position -> 0.252527 -0.3271829 1.298533
+
+frame 89:
+
+left hand position -> -0.280356 -0.3002551 1.200997
+
+right hand position -> 0.2525601 -0.3279586 1.299326
+
+frame 90:
+
+left hand position -> -0.2822973 -0.2998737 1.200003
+
+right hand position -> 0.2528472 -0.3275959 1.297968
+
+frame 91:
+
+left hand position -> -0.2840686 -0.2983284 1.195952
+
+right hand position -> 0.2532297 -0.3258966 1.292769
+
+frame 92:
+
+left hand position -> -0.2863184 -0.2964933 1.191606
+
+right hand position -> 0.253921 -0.323184 1.284905
+
+frame 93:
+
+left hand position -> -0.287917 -0.2939782 1.187389
+
+right hand position -> 0.2536317 -0.3181673 1.277158
+
+frame 94:
+
+left hand position -> -0.2872701 -0.2954063 1.180663
+
+right hand position -> 0.2527803 -0.3111316 1.267462
+
+frame 95:
+
+left hand position -> -0.2886469 -0.2917849 1.173294
+
+right hand position -> 0.251713 -0.3055273 1.257263
+
+frame 96:
+
+left hand position -> -0.2874471 -0.290964 1.167665
+
+right hand position -> 0.2502214 -0.2997684 1.245675
+
+frame 97:
+
+left hand position -> -0.2873768 -0.2896575 1.162765
+
+right hand position -> 0.2473309 -0.2923846 1.23521
+
+frame 98:
+
+left hand position -> -0.2877764 -0.2855788 1.155817
+
+right hand position -> 0.2435513 -0.2853191 1.224873
+
+frame 99:
+
+left hand position -> -0.2874678 -0.2834857 1.15212
+
+right hand position -> 0.2395004 -0.280116 1.216496
+
+frame 100:
+
+left hand position -> -0.2867541 -0.2806913 1.147348
+
+right hand position -> 0.2336004 -0.2776025 1.207301
+
+frame 101:
+
+left hand position -> -0.2864343 -0.2801207 1.144972
+
+right hand position -> 0.2289128 -0.2742331 1.203257
+
+frame 102:
+
+left hand position -> -0.2871713 -0.2797083 1.145373
+
+right hand position -> 0.2215616 -0.2760055 1.199279
+
+frame 103:
+
+left hand position -> -0.2873415 -0.279972 1.145277
+
+right hand position -> 0.2166235 -0.2758714 1.199482
+
+frame 104:
+
+left hand position -> -0.2885122 -0.2814508 1.145841
+
+right hand position -> 0.2124844 -0.2802079 1.197682
+
+frame 105:
+
+left hand position -> -0.290428 -0.2826117 1.146899
+
+right hand position -> 0.2081628 -0.2836992 1.200384
+
+frame 106:
+
+left hand position -> -0.2925094 -0.285393 1.150598
+
+right hand position -> 0.2052025 -0.2853071 1.206333
+
+frame 107:
+
+left hand position -> -0.2949743 -0.2883937 1.153366
+
+right hand position -> 0.2031515 -0.2888153 1.211159
+
+frame 108:
+
+left hand position -> -0.2984886 -0.2911744 1.157613
+
+right hand position -> 0.2004966 -0.2918516 1.217806
+
+frame 109:
+
+left hand position -> -0.3025446 -0.2945907 1.163235
+
+right hand position -> 0.2051239 -0.2883021 1.224757
+
+frame 110:
+
+left hand position -> -0.3059015 -0.2998382 1.16661
+
+right hand position -> 0.2040966 -0.2928624 1.229284
+
+frame 111:
+
+left hand position -> -0.3106541 -0.3051391 1.171693
+
+right hand position -> 0.2032944 -0.2958094 1.23572
+
+frame 112:
+
+left hand position -> -0.3152197 -0.3098257 1.177154
+
+right hand position -> 0.2023922 -0.2984058 1.242738
+
+frame 113:
+
+left hand position -> -0.319466 -0.3154462 1.179768
+
+right hand position -> 0.2024863 -0.2995677 1.246979
+
+frame 114:
+
+left hand position -> -0.3243434 -0.31743 1.182378
+
+right hand position -> 0.2019323 -0.3002214 1.251103
+
+frame 115:
+
+left hand position -> -0.326669 -0.320347 1.183474
+
+right hand position -> 0.2032409 -0.2989226 1.255045
+
+frame 116:
+
+left hand position -> -0.3289255 -0.3211263 1.182925
+
+right hand position -> 0.2050526 -0.2987417 1.258019
+
+frame 117:
+
+left hand position -> -0.3287578 -0.3201425 1.180273
+
+right hand position -> 0.2065846 -0.298193 1.259369
+
+frame 118:
+
+left hand position -> -0.3260093 -0.3219649 1.175336
+
+right hand position -> 0.2091839 -0.2978797 1.259471
+
+frame 119:
+
+left hand position -> -0.3228526 -0.3190332 1.168825
+
+right hand position -> 0.21269 -0.2983734 1.259019
+
+frame 120:
+
+left hand position -> -0.3191195 -0.3160897 1.157061
+
+right hand position -> 0.215925 -0.2984727 1.25609
+
+frame 121:
+
+left hand position -> -0.3133018 -0.3096349 1.146944
+
+right hand position -> 0.2200838 -0.3006839 1.252169
+
+frame 122:
+
+left hand position -> -0.3063609 -0.3070267 1.132753
+
+right hand position -> 0.2241628 -0.3009068 1.244958
+
+frame 123:
+
+left hand position -> -0.2982108 -0.3271822 1.111837
+
+right hand position -> 0.2320047 -0.3026147 1.236828
+
+frame 124:
+
+left hand position -> -0.2913462 -0.2996491 1.106117
+
+right hand position -> 0.2389081 -0.3058846 1.227578
+
+frame 125:
+
+left hand position -> -0.2834395 -0.2891376 1.094695
+
+right hand position -> 0.2445484 -0.3081439 1.213727
+
+frame 126:
+
+left hand position -> -0.2730687 -0.2848203 1.082663
+
+right hand position -> 0.2522019 -0.307447 1.202715
+
+frame 127:
+
+left hand position -> -0.2633578 -0.2795714 1.070544
+
+right hand position -> 0.2627976 -0.3111743 1.187853
+
+frame 128:
+
+left hand position -> -0.2527059 -0.2732566 1.0584
+
+right hand position -> 0.2733119 -0.3132828 1.171473
+
+frame 129:
+
+left hand position -> -0.2402595 -0.2680397 1.046693
+
+right hand position -> 0.283311 -0.3143109 1.154227
+
+frame 130:
+
+left hand position -> -0.2278105 -0.2658078 1.035558
+
+right hand position -> 0.2958891 -0.3130712 1.138858
+
+frame 131:
+
+left hand position -> -0.2138266 -0.2594005 1.029155
+
+right hand position -> 0.3088137 -0.3114365 1.121637
+
+frame 132:
+
+left hand position -> -0.198339 -0.2528616 1.022711
+
+right hand position -> 0.3231715 -0.3055841 1.105235
+
+frame 133:
+
+left hand position -> -0.181064 -0.2461138 1.017471
+
+right hand position -> 0.3369429 -0.3016079 1.088862
+
+frame 134:
+
+left hand position -> -0.1628472 -0.2396757 1.013316
+
+right hand position -> 0.3507774 -0.2960062 1.074982
+
+frame 135:
+
+left hand position -> -0.144564 -0.237214 1.005725
+
+right hand position -> 0.3669409 -0.2882878 1.062679
+
+frame 136:
+
+left hand position -> -0.1268955 -0.2315576 0.99589
+
+right hand position -> 0.3858371 -0.2820489 1.050187
+
+frame 137:
+
+left hand position -> -0.1082678 -0.226025 0.9884073
+
+right hand position -> 0.4037484 -0.278506 1.036568
+
+frame 138:
+
+left hand position -> -0.08948525 -0.2190727 0.9802026
+
+right hand position -> 0.4224643 -0.2774464 1.023463
+
+frame 139:
+
+left hand position -> -0.07422934 -0.2129323 0.9712783
+
+right hand position -> 0.4392054 -0.2761583 1.013427
+
+frame 140:
+
+left hand position -> -0.05335046 -0.2068826 0.9659427
+
+right hand position -> 0.4544318 -0.2788764 1.001367
+
+frame 141:
+
+left hand position -> -0.0358001 -0.1984389 0.9616002
+
+right hand position -> 0.4679524 -0.279776 0.9945888
+
+frame 142:
+
+left hand position -> -0.02400951 -0.1902955 0.95373
+
+right hand position -> 0.4779597 -0.2800832 0.9879815
+
+frame 143:
+
+left hand position -> -0.01054481 -0.1863248 0.9490589
+
+right hand position -> 0.4849572 -0.2797943 0.9830709
+
+frame 144:
+
+left hand position -> 0.0005819558 -0.1832542 0.9436198
+
+right hand position -> 0.488429 -0.2792235 0.9763568
+
+frame 145:
+
+left hand position -> 0.0130012 -0.1805767 0.944468
+
+right hand position -> 0.4891749 -0.2783396 0.9696437
+
+frame 146:
+
+left hand position -> 0.02162933 -0.1830065 0.9433996
+
+right hand position -> 0.4874175 -0.2773181 0.9618022
+
+frame 147:
+
+left hand position -> 0.02747662 -0.1867793 0.9445494
+
+right hand position -> 0.4824955 -0.2767823 0.9546798
+
+frame 148:
+
+left hand position -> 0.03120713 -0.191591 0.947255
+
+right hand position -> 0.474535 -0.2739007 0.9469103
+
+frame 149:
+
+left hand position -> 0.03738319 -0.1988275 0.9514509
+
+right hand position -> 0.4629944 -0.272146 0.9411243
+
+frame 150:
+
+left hand position -> 0.04218811 -0.2089856 0.9549849
+
+right hand position -> 0.4481155 -0.2715382 0.9393821
+
+frame 151:
+
+left hand position -> 0.04689734 -0.2176764 0.9575199
+
+right hand position -> 0.4365317 -0.2757758 0.9313397
+
+frame 152:
+
+left hand position -> 0.03667355 -0.2251819 0.9597162
+
+right hand position -> 0.429986 -0.2751784 0.9233935
+
+frame 153:
+
+left hand position -> 0.03757193 -0.2393823 0.959817
+
+right hand position -> 0.4289689 -0.2803519 0.9159147
+
+frame 154:
+
+left hand position -> 0.03907394 -0.2514478 0.9578496
+
+right hand position -> 0.4339515 -0.2821781 0.9041073
+
+frame 155:
+
+left hand position -> 0.03744457 -0.2659642 0.9537544
+
+right hand position -> 0.4387674 -0.3049821 0.8807314
+
+frame 156:
+
+left hand position -> 0.03581174 -0.2890592 0.9462729
+
+right hand position -> 0.4382817 -0.3353432 0.8511087
+
+frame 157:
+
+left hand position -> 0.03287007 -0.2981275 0.9389992
+
+right hand position -> 0.453016 -0.341653 0.8300604
+
+frame 158:
+
+left hand position -> 0.02815348 -0.3091621 0.9268469
+
+right hand position -> 0.4658398 -0.3474794 0.8124682
+
+frame 159:
+
+left hand position -> 0.0203329 -0.3359771 0.9113472
+
+right hand position -> 0.4774966 -0.35086 0.8078666
+
+frame 160:
+
+left hand position -> 0.01308263 -0.3465912 0.8959573
+
+right hand position -> 0.4817336 -0.3585244 0.8071971
+
+frame 161:
+
+left hand position -> 0.01741578 -0.3720789 0.8900073
+
+right hand position -> 0.484242 -0.3660554 0.8100568
+
+frame 162:
+
+left hand position -> 0.01049981 -0.4121382 0.8815328
+
+right hand position -> 0.489283 -0.3717925 0.8168077
+
+frame 163:
+
+left hand position -> 0.01096668 -0.4460852 0.8830348
+
+right hand position -> 0.5056082 -0.375714 0.7942218
+
+frame 164:
+
+left hand position -> 0.01037865 -0.456776 0.8890255
+
+right hand position -> 0.4986539 -0.3991012 0.7758915
+
+frame 165:
+
+left hand position -> 0.004770518 -0.4710309 0.8893332
+
+right hand position -> 0.4919109 -0.3957415 0.7868676
+
+frame 166:
+
+left hand position -> 0.006442708 -0.4597968 0.8777847
+
+right hand position -> 0.4936471 -0.3980472 0.7832922
+
+frame 167:
+
+left hand position -> -0.04686745 -0.636415 0.929776
+
+right hand position -> 0.4720849 -0.4295552 0.8600142
+
+frame 168:
+
+left hand position -> 0.03069951 -0.6960068 0.9734825
+
+right hand position -> 0.4917139 -0.4172341 0.7114193
+
+frame 169:
+
+left hand position -> 0.03710486 -0.02544578 0.5398909
+
+right hand position -> 0.4905866 -0.4345842 0.6954255
+
+frame 170:
+
+left hand position -> 0.2496609 -0.06910796 0.6048232
+
+right hand position -> 0.5411443 -0.2847251 0.5169585
+
+frame 171:
+
+left hand position -> 0.2793122 -0.1292767 0.6247108
+
+right hand position -> 0.539159 -0.2922123 0.5149733
+
+frame 172:
+
+left hand position -> 0.4318917 -0.3736736 0.8152868
+
+right hand po
